@@ -194,4 +194,4 @@ def get_nextFlow(req_json_data,topic):
 
 # main driver function
 if __name__ == '__main__':
-    app.run()
+    app.run(port=8501)
