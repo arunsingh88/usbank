@@ -1,1 +1,129 @@
-{"page1": [{"Vkk1kHjjtwqD61RsSIxe-20": {"msg": "Do you allow companies to debit your account(s) directly?", "type": "check"}, "Vkk1kHjjtwqD61RsSIxe-23": {"msg": "Does your business issue checks?", "type": "check"}, "Vkk1kHjjtwqD61RsSIxe-27": {"msg": "Does your business issue checks?", "type": "check"}, "Vkk1kHjjtwqD61RsSIxe-28": {"msg": "Electronic Positive Pay & Paper Positive Pay", "type": "end"}, "Vkk1kHjjtwqD61RsSIxe-29": {"msg": "Electronic Positive Pay", "type": "end"}, "Vkk1kHjjtwqD61RsSIxe-30": {"msg": "Paper Positive Pay", "type": "end"}, "Vkk1kHjjtwqD61RsSIxe-31": {"msg": "None", "type": "end"}, "d078q4ZSyrDxQJshOVlI-35": {"msg": "You have selected Protect Payment", "type": "message"}}, {"Vkk1kHjjtwqD61RsSIxe-17": {"source": "Vkk1kHjjtwqD61RsSIxe-20", "target": "Vkk1kHjjtwqD61RsSIxe-27", "condtion": "No"}, "Vkk1kHjjtwqD61RsSIxe-19": {"source": "Vkk1kHjjtwqD61RsSIxe-20", "target": "Vkk1kHjjtwqD61RsSIxe-23", "condtion": "Yes"}, "Vkk1kHjjtwqD61RsSIxe-21": {"source": "Vkk1kHjjtwqD61RsSIxe-23", "target": "Vkk1kHjjtwqD61RsSIxe-28", "condtion": "Yes"}, "Vkk1kHjjtwqD61RsSIxe-22": {"source": "Vkk1kHjjtwqD61RsSIxe-23", "target": "Vkk1kHjjtwqD61RsSIxe-29", "condtion": "No"}, "Vkk1kHjjtwqD61RsSIxe-24": {"source": "Vkk1kHjjtwqD61RsSIxe-27", "target": "Vkk1kHjjtwqD61RsSIxe-31", "condtion": "No"}, "Vkk1kHjjtwqD61RsSIxe-26": {"source": "Vkk1kHjjtwqD61RsSIxe-27", "target": "Vkk1kHjjtwqD61RsSIxe-30", "condtion": "Yes"}, "d078q4ZSyrDxQJshOVlI-37": {"source": "d078q4ZSyrDxQJshOVlI-31", "target": "d078q4ZSyrDxQJshOVlI-35", "condtion": ""}, "d078q4ZSyrDxQJshOVlI-38": {"source": "d078q4ZSyrDxQJshOVlI-35", "target": "Vkk1kHjjtwqD61RsSIxe-20", "condtion": ""}}, "d078q4ZSyrDxQJshOVlI-38"]}
+{
+  "page1": [
+    {
+      "Vkk1kHjjtwqD61RsSIxe-20": {
+        "msg": "Do you allow companies to debit your account(s) directly?",
+        "type": "check"
+      },
+      "Vkk1kHjjtwqD61RsSIxe-23": {
+        "msg": "Does your business issue checks?",
+        "type": "check"
+      },
+      "Vkk1kHjjtwqD61RsSIxe-27": {
+        "msg": "Does your business issue checks?",
+        "type": "check"
+      },
+      "d078q4ZSyrDxQJshOVlI-35": {
+        "msg": "You have selected Protect Payment",
+        "type": "message"
+      },
+      "bWfzHslepsMsLRYXzKlo-3": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "bWfzHslepsMsLRYXzKlo-4": {
+        "msg": "Because you allow companies to debit accounts electronically and your business doesn't disburse checks, I recommend:",
+        "type": "message"
+      },
+      "bWfzHslepsMsLRYXzKlo-5": {
+        "msg": "Because you don't allow companies to debit accounts electronically and your business\u00a0 disburse checks, I recommend:",
+        "type": "message"
+      },
+      "bWfzHslepsMsLRYXzKlo-6": {
+        "msg": "Because you don't allow companies to debit accounts electronically and your business doesn't\u00a0 disburse checks, I recommend:",
+        "type": "message"
+      },
+      "bWfzHslepsMsLRYXzKlo-7": {
+        "msg": "Electronic Positive Pay & Paper Positive Pay",
+        "type": "end"
+      },
+      "bWfzHslepsMsLRYXzKlo-9": {
+        "msg": "Electronic Positive Pay",
+        "type": "end"
+      },
+      "bWfzHslepsMsLRYXzKlo-11": { "msg": "Paper Positive Pay", "type": "end" },
+      "bWfzHslepsMsLRYXzKlo-13": { "msg": "None", "type": "end" },
+      "bWfzHslepsMsLRYXzKlo-16": {
+        "msg": "Based on what we know about you, here are the recommended products",
+        "type": "message"
+      },
+      "bWfzHslepsMsLRYXzKlo-18": {
+        "msg": "Electronic Positive Pay/Paper Positive Pay",
+        "type": "end"
+      }
+    },
+    {
+      "Vkk1kHjjtwqD61RsSIxe-17": {
+        "source": "Vkk1kHjjtwqD61RsSIxe-20",
+        "target": "Vkk1kHjjtwqD61RsSIxe-27",
+        "condtion": "No"
+      },
+      "Vkk1kHjjtwqD61RsSIxe-19": {
+        "source": "Vkk1kHjjtwqD61RsSIxe-20",
+        "target": "Vkk1kHjjtwqD61RsSIxe-23",
+        "condtion": "Yes"
+      },
+      "bWfzHslepsMsLRYXzKlo-17": {
+        "source": "Vkk1kHjjtwqD61RsSIxe-20",
+        "target": "bWfzHslepsMsLRYXzKlo-16",
+        "condtion": "I know what product I want"
+      },
+      "Vkk1kHjjtwqD61RsSIxe-21": {
+        "source": "Vkk1kHjjtwqD61RsSIxe-23",
+        "target": "bWfzHslepsMsLRYXzKlo-3",
+        "condtion": "Yes"
+      },
+      "Vkk1kHjjtwqD61RsSIxe-22": {
+        "source": "Vkk1kHjjtwqD61RsSIxe-23",
+        "target": "bWfzHslepsMsLRYXzKlo-4",
+        "condtion": "No"
+      },
+      "Vkk1kHjjtwqD61RsSIxe-24": {
+        "source": "Vkk1kHjjtwqD61RsSIxe-27",
+        "target": "bWfzHslepsMsLRYXzKlo-6",
+        "condtion": "No"
+      },
+      "Vkk1kHjjtwqD61RsSIxe-26": {
+        "source": "Vkk1kHjjtwqD61RsSIxe-27",
+        "target": "bWfzHslepsMsLRYXzKlo-5",
+        "condtion": "Yes"
+      },
+      "d078q4ZSyrDxQJshOVlI-37": {
+        "source": "d078q4ZSyrDxQJshOVlI-31",
+        "target": "d078q4ZSyrDxQJshOVlI-35",
+        "condtion": ""
+      },
+      "d078q4ZSyrDxQJshOVlI-38": {
+        "source": "d078q4ZSyrDxQJshOVlI-35",
+        "target": "Vkk1kHjjtwqD61RsSIxe-20",
+        "condtion": ""
+      },
+      "bWfzHslepsMsLRYXzKlo-8": {
+        "source": "bWfzHslepsMsLRYXzKlo-3",
+        "target": "bWfzHslepsMsLRYXzKlo-7",
+        "condtion": ""
+      },
+      "bWfzHslepsMsLRYXzKlo-10": {
+        "source": "bWfzHslepsMsLRYXzKlo-4",
+        "target": "bWfzHslepsMsLRYXzKlo-9",
+        "condtion": ""
+      },
+      "bWfzHslepsMsLRYXzKlo-12": {
+        "source": "bWfzHslepsMsLRYXzKlo-5",
+        "target": "bWfzHslepsMsLRYXzKlo-11",
+        "condtion": ""
+      },
+      "bWfzHslepsMsLRYXzKlo-14": {
+        "source": "bWfzHslepsMsLRYXzKlo-6",
+        "target": "bWfzHslepsMsLRYXzKlo-13",
+        "condtion": ""
+      },
+      "bWfzHslepsMsLRYXzKlo-19": {
+        "source": "bWfzHslepsMsLRYXzKlo-16",
+        "target": "bWfzHslepsMsLRYXzKlo-18",
+        "condtion": ""
+      }
+    },
+    "d078q4ZSyrDxQJshOVlI-38"
+  ]
+}
