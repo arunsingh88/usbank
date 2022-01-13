@@ -47,6 +47,10 @@
         "msg": "Based on what we know about you, here are the recommended products",
         "type": "message"
       },
+      "bWfzHslepsMsLRYXzKlo-162": {
+        "msg": "It sounds like you are trying to learn more about fraud prevention products (Electronic/ Paper Positive Pay).",
+        "type": "message"
+      },
       "bWfzHslepsMsLRYXzKlo-18": {
         "msg": "Electronic Positive Pay/Paper Positive Pay",
         "type": "end"
@@ -120,6 +124,11 @@
       },
       "bWfzHslepsMsLRYXzKlo-19": {
         "source": "bWfzHslepsMsLRYXzKlo-16",
+        "target": "bWfzHslepsMsLRYXzKlo-18",
+        "condtion": ""
+      },
+      "bWfzHslepsMsLRYXzKlo-192": {
+        "source": "bWfzHslepsMsLRYXzKlo-162",
         "target": "bWfzHslepsMsLRYXzKlo-18",
         "condtion": ""
       }

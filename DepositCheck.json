@@ -140,6 +140,10 @@
         "msg": "Based on what we know about you, here are the recommended products",
         "type": "message"
       },
+      "PBgFz3OS81D7Ok9Yo7N_-312": {
+        "msg": "It sounds like you are trying to learn more about deposit checks products (On-Site Electronic Deposit/Mobile CheckDeposit/ Deposit Express)",
+        "type": "message"
+      },
       "PBgFz3OS81D7Ok9Yo7N_-6": {
         "msg": "On-Site Electronic Deposit/Mobile Check Deposit/ Deposit Express",
         "type": "end"
@@ -338,6 +342,11 @@
       },
       "PBgFz3OS81D7Ok9Yo7N_-7": {
         "source": "PBgFz3OS81D7Ok9Yo7N_-3",
+        "target": "PBgFz3OS81D7Ok9Yo7N_-6",
+        "condtion": ""
+      },
+      "PBgFz3OS81D7Ok9Yo7N_-712": {
+        "source": "PBgFz3OS81D7Ok9Yo7N_-312",
         "target": "PBgFz3OS81D7Ok9Yo7N_-6",
         "condtion": ""
       }
