@@ -2,11 +2,11 @@
   "page1": [
     {
       "77S6hdfyZ6bM4Nf4Giki-4": {
-        "msg": "You have selected Deposit Pay",
+        "msg": "You have selected Deposit Checks",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-5": {
-        "msg": "How many checks per month, at maximum, does your business receive and deposit?",
+        "msg": "Thanks for clarifying!. How many checks per month, at maximum, does your business receive and deposit?",
         "type": "check"
       },
       "77S6hdfyZ6bM4Nf4Giki-9": {

@@ -2,11 +2,11 @@
   "page1": [
     {
       "Vkk1kHjjtwqD61RsSIxe-20": {
-        "msg": "Do you allow companies to debit your account(s) directly?",
+        "msg": "Do you allow companies to debit your account(s) electronically?",
         "type": "check"
       },
       "Vkk1kHjjtwqD61RsSIxe-23": {
-        "msg": "Does your business issue checks?",
+        "msg": "Does your business disburse checks?",
         "type": "check"
       },
       "Vkk1kHjjtwqD61RsSIxe-27": {
@@ -14,7 +14,7 @@
         "type": "check"
       },
       "d078q4ZSyrDxQJshOVlI-35": {
-        "msg": "You have selected Protect Payment",
+        "msg": "You have selected Prevent Payment Fraud",
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-3": {
