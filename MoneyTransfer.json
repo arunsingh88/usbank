@@ -1,1 +1,1071 @@
-{"page1": [{"dyWy75i-FhSXQeEBGfzN-2": {"msg": "You have selected\u00a0Transfer Money", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-4": {"msg": "How many transfers do you make per day typically?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-6": {"msg": "What percentage of your transfer payments are predictable and able to be scheduled in advance?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-8": {"msg": "What percentage of your transfer payments are\u00a0predictable and able to be scheduled in advance?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-10": {"msg": "Based on what we know about you, here are the recommended products", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-12": {"msg": "Disbursements via Zelle/Real-time payments/Wire/ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-15": {"msg": "Does your business haveever need to make international payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-18": {"msg": "Do you have a need\u00a0to\u00a0issue payments to consumers or micro-businesses?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-20": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-22": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-24": {"msg": "ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-26": {"msg": "ACH/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-28": {"msg": "Does your business have ever need\u00a0to make international payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-30": {"msg": "Do you ever need to make same-day payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-32": {"msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-34": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-36": {"msg": "Disbursements via Zelle/Real-time payments/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-38": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-40": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-42": {"msg": "Disbursements via Zelle/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-44": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-46": {"msg": "Disbursements via Zelle/Wire/Real-time payments", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-48": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-50": {"msg": "Disbursements via Zelle/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-52": {"msg": "Do you ever need to make same-day payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-54": {"msg": "Are the same-day payments ever on\u00a0weekends, holidays, or off banking hours?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-56": {"msg": "Are your same\u00a0day payments ever greater than $100,000?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-58": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-60": {"msg": "Disbursements via Zelle/Real-time payments/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-62": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-64": {"msg": "Disbursements via Zelle/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-67": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-69": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-71": {"msg": "Disbursements via Zelle/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-74": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-76": {"msg": "Disbursements via Zelle/Real-time payments", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-78": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-80": {"msg": "Disbursements via Zelle/ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-83": {"msg": "Does your business have\u00a0ever need to make international payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-86": {"msg": "Do you ever need to\u00a0make same-day payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-88": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-90": {"msg": "Wire/Real-time payments", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-99": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-101": {"msg": "Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-103": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-105": {"msg": "ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-107": {"msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-111": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-113": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-115": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-117": {"msg": "Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-119": {"msg": "Wire/Real-time payments", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-121": {"msg": "Do you ever need to make same-day payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-124": {"msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-126": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-128": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-130": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-132": {"msg": "Real-time payments/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-134": {"msg": "ACH/Real-time payments", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-136": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-140": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-142": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-144": {"msg": "Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-146": {"msg": "ACH/Real-time payments", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-148": {"msg": "Do you have a need to issue payments to consumers or\u00a0micro-businesses?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-150": {"msg": "Does your business have ever need to make international payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-152": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-154": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-156": {"msg": "ACH/Wire", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-158": {"msg": "ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-160": {"msg": "Does your business have ever need to\u00a0make international\u00a0payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-162": {"msg": "Do you ever need to make same-day payments?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-164": {"msg": "Are the same-day payments ever on weekends, holidays,\u00a0or off banking hours?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-166": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-168": {"msg": "Disbursements via Zelle/Real-time payments/Wire/ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-170": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "dyWy75i-FhSXQeEBGfzN-172": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-174": {"msg": "Disbursements via Zelle/Wire/ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-176": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-178": {"msg": "Disbursements via Zelle/Wire/Real-time payments/ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-180": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "dyWy75i-FhSXQeEBGfzN-182": {"msg": "Disbursements via Zelle/Wire/ACH", "type": "end"}, "dyWy75i-FhSXQeEBGfzN-184": {"msg": "Do you ever need to make same-day payments?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-1": {"msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-3": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-5": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-7": {"msg": "Disbursements via Zelle/Real-time payments/Wire/ACH", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-9": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-11": {"msg": "Disbursements via Zelle/Wire/ACH", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-13": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-15": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-17": {"msg": "Disbursements via Zelle/Wire/ACH", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-19": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-21": {"msg": "Disbursements via Zelle/Real-time payments/ACH", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-23": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-25": {"msg": "Disbursements via Zelle/ACH", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-27": {"msg": "Does your business have ever need to make international payments?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-29": {"msg": "Do you ever need to make same-day payments?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-31": {"msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-35": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-37": {"msg": "Wire/Real-time payments", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-39": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-44": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-46": {"msg": "Wire", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-48": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-50": {"msg": "Wire/Real-time payments", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-55": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-57": {"msg": "Wire", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-59": {"msg": "Do you ever need to make same-day payments?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-61": {"msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-63": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-65": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-67": {"msg": "Real-time payments/Wire", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-69": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-71": {"msg": "ACH/Real-time payments", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-73": {"msg": "Are your same day payments ever greater than $100,000?", "type": "check"}, "Z5SoOTblHbJHl6VuyPzG-75": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-77": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-79": {"msg": "Wire", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-81": {"msg": "ACH/Real-time payments", "type": "end"}, "Z5SoOTblHbJHl6VuyPzG-83": {"msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:", "type": "message"}, "Z5SoOTblHbJHl6VuyPzG-87": {"msg": "ACH", "type": "end"}}, {"dyWy75i-FhSXQeEBGfzN-3": {"source": "dyWy75i-FhSXQeEBGfzN-1", "target": "dyWy75i-FhSXQeEBGfzN-2", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-5": {"source": "dyWy75i-FhSXQeEBGfzN-2", "target": "dyWy75i-FhSXQeEBGfzN-4", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-7": {"source": "dyWy75i-FhSXQeEBGfzN-4", "target": "dyWy75i-FhSXQeEBGfzN-6", "condtion": "<2"}, "dyWy75i-FhSXQeEBGfzN-9": {"source": "dyWy75i-FhSXQeEBGfzN-4", "target": "dyWy75i-FhSXQeEBGfzN-8", "condtion": ">2"}, "dyWy75i-FhSXQeEBGfzN-11": {"source": "dyWy75i-FhSXQeEBGfzN-4", "target": "dyWy75i-FhSXQeEBGfzN-10", "condtion": "I know\u00a0 what product I want"}, "dyWy75i-FhSXQeEBGfzN-16": {"source": "dyWy75i-FhSXQeEBGfzN-6", "target": "dyWy75i-FhSXQeEBGfzN-15", "condtion": "100%"}, "dyWy75i-FhSXQeEBGfzN-19": {"source": "dyWy75i-FhSXQeEBGfzN-6", "target": "dyWy75i-FhSXQeEBGfzN-18", "condtion": "<100%"}, "dyWy75i-FhSXQeEBGfzN-149": {"source": "dyWy75i-FhSXQeEBGfzN-8", "target": "dyWy75i-FhSXQeEBGfzN-148", "condtion": "<100%"}, "dyWy75i-FhSXQeEBGfzN-151": {"source": "dyWy75i-FhSXQeEBGfzN-8", "target": "dyWy75i-FhSXQeEBGfzN-150", "condtion": "100%"}, "dyWy75i-FhSXQeEBGfzN-13": {"source": "dyWy75i-FhSXQeEBGfzN-10", "target": "dyWy75i-FhSXQeEBGfzN-12", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-21": {"source": "dyWy75i-FhSXQeEBGfzN-15", "target": "dyWy75i-FhSXQeEBGfzN-20", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-23": {"source": "dyWy75i-FhSXQeEBGfzN-15", "target": "dyWy75i-FhSXQeEBGfzN-22", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-29": {"source": "dyWy75i-FhSXQeEBGfzN-18", "target": "dyWy75i-FhSXQeEBGfzN-28", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-84": {"source": "dyWy75i-FhSXQeEBGfzN-18", "target": "dyWy75i-FhSXQeEBGfzN-83", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-25": {"source": "dyWy75i-FhSXQeEBGfzN-20", "target": "dyWy75i-FhSXQeEBGfzN-24", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-27": {"source": "dyWy75i-FhSXQeEBGfzN-22", "target": "dyWy75i-FhSXQeEBGfzN-26", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-31": {"source": "dyWy75i-FhSXQeEBGfzN-28", "target": "dyWy75i-FhSXQeEBGfzN-30", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-53": {"source": "dyWy75i-FhSXQeEBGfzN-28", "target": "dyWy75i-FhSXQeEBGfzN-52", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-33": {"source": "dyWy75i-FhSXQeEBGfzN-30", "target": "dyWy75i-FhSXQeEBGfzN-32", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-49": {"source": "dyWy75i-FhSXQeEBGfzN-30", "target": "dyWy75i-FhSXQeEBGfzN-48", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-35": {"source": "dyWy75i-FhSXQeEBGfzN-32", "target": "dyWy75i-FhSXQeEBGfzN-34", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-39": {"source": "dyWy75i-FhSXQeEBGfzN-32", "target": "dyWy75i-FhSXQeEBGfzN-38", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-37": {"source": "dyWy75i-FhSXQeEBGfzN-34", "target": "dyWy75i-FhSXQeEBGfzN-36", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-41": {"source": "dyWy75i-FhSXQeEBGfzN-38", "target": "dyWy75i-FhSXQeEBGfzN-40", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-45": {"source": "dyWy75i-FhSXQeEBGfzN-38", "target": "dyWy75i-FhSXQeEBGfzN-44", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-43": {"source": "dyWy75i-FhSXQeEBGfzN-40", "target": "dyWy75i-FhSXQeEBGfzN-42", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-47": {"source": "dyWy75i-FhSXQeEBGfzN-44", "target": "dyWy75i-FhSXQeEBGfzN-46", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-51": {"source": "dyWy75i-FhSXQeEBGfzN-48", "target": "dyWy75i-FhSXQeEBGfzN-50", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-55": {"source": "dyWy75i-FhSXQeEBGfzN-52", "target": "dyWy75i-FhSXQeEBGfzN-54", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-79": {"source": "dyWy75i-FhSXQeEBGfzN-52", "target": "dyWy75i-FhSXQeEBGfzN-78", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-57": {"source": "dyWy75i-FhSXQeEBGfzN-54", "target": "dyWy75i-FhSXQeEBGfzN-56", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-68": {"source": "dyWy75i-FhSXQeEBGfzN-54", "target": "dyWy75i-FhSXQeEBGfzN-67", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-59": {"source": "dyWy75i-FhSXQeEBGfzN-56", "target": "dyWy75i-FhSXQeEBGfzN-58", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-63": {"source": "dyWy75i-FhSXQeEBGfzN-56", "target": "dyWy75i-FhSXQeEBGfzN-62", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-61": {"source": "dyWy75i-FhSXQeEBGfzN-58", "target": "dyWy75i-FhSXQeEBGfzN-60", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-65": {"source": "dyWy75i-FhSXQeEBGfzN-62", "target": "dyWy75i-FhSXQeEBGfzN-64", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-70": {"source": "dyWy75i-FhSXQeEBGfzN-67", "target": "dyWy75i-FhSXQeEBGfzN-69", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-75": {"source": "dyWy75i-FhSXQeEBGfzN-67", "target": "dyWy75i-FhSXQeEBGfzN-74", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-72": {"source": "dyWy75i-FhSXQeEBGfzN-69", "target": "dyWy75i-FhSXQeEBGfzN-71", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-77": {"source": "dyWy75i-FhSXQeEBGfzN-74", "target": "dyWy75i-FhSXQeEBGfzN-76", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-81": {"source": "dyWy75i-FhSXQeEBGfzN-78", "target": "dyWy75i-FhSXQeEBGfzN-80", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-87": {"source": "dyWy75i-FhSXQeEBGfzN-83", "target": "dyWy75i-FhSXQeEBGfzN-86", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-122": {"source": "dyWy75i-FhSXQeEBGfzN-83", "target": "dyWy75i-FhSXQeEBGfzN-121", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-93": {"source": "dyWy75i-FhSXQeEBGfzN-86", "target": "dyWy75i-FhSXQeEBGfzN-99", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-108": {"source": "dyWy75i-FhSXQeEBGfzN-86", "target": "dyWy75i-FhSXQeEBGfzN-107", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-91": {"source": "dyWy75i-FhSXQeEBGfzN-88", "target": "dyWy75i-FhSXQeEBGfzN-90", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-102": {"source": "dyWy75i-FhSXQeEBGfzN-99", "target": "dyWy75i-FhSXQeEBGfzN-101", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-106": {"source": "dyWy75i-FhSXQeEBGfzN-103", "target": "dyWy75i-FhSXQeEBGfzN-105", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-110": {"source": "dyWy75i-FhSXQeEBGfzN-107", "target": "dyWy75i-FhSXQeEBGfzN-88", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-112": {"source": "dyWy75i-FhSXQeEBGfzN-107", "target": "dyWy75i-FhSXQeEBGfzN-111", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-114": {"source": "dyWy75i-FhSXQeEBGfzN-111", "target": "dyWy75i-FhSXQeEBGfzN-113", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-116": {"source": "dyWy75i-FhSXQeEBGfzN-111", "target": "dyWy75i-FhSXQeEBGfzN-115", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-118": {"source": "dyWy75i-FhSXQeEBGfzN-113", "target": "dyWy75i-FhSXQeEBGfzN-117", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-120": {"source": "dyWy75i-FhSXQeEBGfzN-115", "target": "dyWy75i-FhSXQeEBGfzN-119", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-123": {"source": "dyWy75i-FhSXQeEBGfzN-121", "target": "dyWy75i-FhSXQeEBGfzN-103", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-125": {"source": "dyWy75i-FhSXQeEBGfzN-121", "target": "dyWy75i-FhSXQeEBGfzN-124", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-127": {"source": "dyWy75i-FhSXQeEBGfzN-124", "target": "dyWy75i-FhSXQeEBGfzN-126", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-137": {"source": "dyWy75i-FhSXQeEBGfzN-124", "target": "dyWy75i-FhSXQeEBGfzN-136", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-129": {"source": "dyWy75i-FhSXQeEBGfzN-126", "target": "dyWy75i-FhSXQeEBGfzN-128", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-131": {"source": "dyWy75i-FhSXQeEBGfzN-126", "target": "dyWy75i-FhSXQeEBGfzN-130", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-133": {"source": "dyWy75i-FhSXQeEBGfzN-128", "target": "dyWy75i-FhSXQeEBGfzN-132", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-135": {"source": "dyWy75i-FhSXQeEBGfzN-130", "target": "dyWy75i-FhSXQeEBGfzN-134", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-141": {"source": "dyWy75i-FhSXQeEBGfzN-136", "target": "dyWy75i-FhSXQeEBGfzN-140", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-143": {"source": "dyWy75i-FhSXQeEBGfzN-136", "target": "dyWy75i-FhSXQeEBGfzN-142", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-145": {"source": "dyWy75i-FhSXQeEBGfzN-140", "target": "dyWy75i-FhSXQeEBGfzN-144", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-147": {"source": "dyWy75i-FhSXQeEBGfzN-142", "target": "dyWy75i-FhSXQeEBGfzN-146", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-161": {"source": "dyWy75i-FhSXQeEBGfzN-148", "target": "dyWy75i-FhSXQeEBGfzN-160", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-28": {"source": "dyWy75i-FhSXQeEBGfzN-148", "target": "Z5SoOTblHbJHl6VuyPzG-27", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-153": {"source": "dyWy75i-FhSXQeEBGfzN-150", "target": "dyWy75i-FhSXQeEBGfzN-152", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-155": {"source": "dyWy75i-FhSXQeEBGfzN-150", "target": "dyWy75i-FhSXQeEBGfzN-154", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-157": {"source": "dyWy75i-FhSXQeEBGfzN-152", "target": "dyWy75i-FhSXQeEBGfzN-156", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-159": {"source": "dyWy75i-FhSXQeEBGfzN-154", "target": "dyWy75i-FhSXQeEBGfzN-158", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-163": {"source": "dyWy75i-FhSXQeEBGfzN-160", "target": "dyWy75i-FhSXQeEBGfzN-162", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-185": {"source": "dyWy75i-FhSXQeEBGfzN-160", "target": "dyWy75i-FhSXQeEBGfzN-184", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-165": {"source": "dyWy75i-FhSXQeEBGfzN-162", "target": "dyWy75i-FhSXQeEBGfzN-164", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-181": {"source": "dyWy75i-FhSXQeEBGfzN-162", "target": "dyWy75i-FhSXQeEBGfzN-180", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-167": {"source": "dyWy75i-FhSXQeEBGfzN-164", "target": "dyWy75i-FhSXQeEBGfzN-166", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-171": {"source": "dyWy75i-FhSXQeEBGfzN-164", "target": "dyWy75i-FhSXQeEBGfzN-170", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-169": {"source": "dyWy75i-FhSXQeEBGfzN-166", "target": "dyWy75i-FhSXQeEBGfzN-168", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-173": {"source": "dyWy75i-FhSXQeEBGfzN-170", "target": "dyWy75i-FhSXQeEBGfzN-172", "condtion": "Yes"}, "dyWy75i-FhSXQeEBGfzN-177": {"source": "dyWy75i-FhSXQeEBGfzN-170", "target": "dyWy75i-FhSXQeEBGfzN-176", "condtion": "No"}, "dyWy75i-FhSXQeEBGfzN-175": {"source": "dyWy75i-FhSXQeEBGfzN-172", "target": "dyWy75i-FhSXQeEBGfzN-174", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-179": {"source": "dyWy75i-FhSXQeEBGfzN-176", "target": "dyWy75i-FhSXQeEBGfzN-178", "condtion": ""}, "dyWy75i-FhSXQeEBGfzN-183": {"source": "dyWy75i-FhSXQeEBGfzN-180", "target": "dyWy75i-FhSXQeEBGfzN-182", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-2": {"source": "dyWy75i-FhSXQeEBGfzN-184", "target": "Z5SoOTblHbJHl6VuyPzG-1", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-24": {"source": "dyWy75i-FhSXQeEBGfzN-184", "target": "Z5SoOTblHbJHl6VuyPzG-23", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-4": {"source": "Z5SoOTblHbJHl6VuyPzG-1", "target": "Z5SoOTblHbJHl6VuyPzG-3", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-14": {"source": "Z5SoOTblHbJHl6VuyPzG-1", "target": "Z5SoOTblHbJHl6VuyPzG-13", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-6": {"source": "Z5SoOTblHbJHl6VuyPzG-3", "target": "Z5SoOTblHbJHl6VuyPzG-5", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-10": {"source": "Z5SoOTblHbJHl6VuyPzG-3", "target": "Z5SoOTblHbJHl6VuyPzG-9", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-8": {"source": "Z5SoOTblHbJHl6VuyPzG-5", "target": "Z5SoOTblHbJHl6VuyPzG-7", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-12": {"source": "Z5SoOTblHbJHl6VuyPzG-9", "target": "Z5SoOTblHbJHl6VuyPzG-11", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-16": {"source": "Z5SoOTblHbJHl6VuyPzG-13", "target": "Z5SoOTblHbJHl6VuyPzG-15", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-20": {"source": "Z5SoOTblHbJHl6VuyPzG-13", "target": "Z5SoOTblHbJHl6VuyPzG-19", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-18": {"source": "Z5SoOTblHbJHl6VuyPzG-15", "target": "Z5SoOTblHbJHl6VuyPzG-17", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-22": {"source": "Z5SoOTblHbJHl6VuyPzG-19", "target": "Z5SoOTblHbJHl6VuyPzG-21", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-26": {"source": "Z5SoOTblHbJHl6VuyPzG-23", "target": "Z5SoOTblHbJHl6VuyPzG-25", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-30": {"source": "Z5SoOTblHbJHl6VuyPzG-27", "target": "Z5SoOTblHbJHl6VuyPzG-29", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-60": {"source": "Z5SoOTblHbJHl6VuyPzG-27", "target": "Z5SoOTblHbJHl6VuyPzG-59", "condtion": "NO"}, "Z5SoOTblHbJHl6VuyPzG-32": {"source": "Z5SoOTblHbJHl6VuyPzG-29", "target": "Z5SoOTblHbJHl6VuyPzG-31", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-56": {"source": "Z5SoOTblHbJHl6VuyPzG-29", "target": "Z5SoOTblHbJHl6VuyPzG-55", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-36": {"source": "Z5SoOTblHbJHl6VuyPzG-31", "target": "Z5SoOTblHbJHl6VuyPzG-35", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-40": {"source": "Z5SoOTblHbJHl6VuyPzG-31", "target": "Z5SoOTblHbJHl6VuyPzG-39", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-38": {"source": "Z5SoOTblHbJHl6VuyPzG-35", "target": "Z5SoOTblHbJHl6VuyPzG-37", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-45": {"source": "Z5SoOTblHbJHl6VuyPzG-39", "target": "Z5SoOTblHbJHl6VuyPzG-44", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-49": {"source": "Z5SoOTblHbJHl6VuyPzG-39", "target": "Z5SoOTblHbJHl6VuyPzG-48", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-47": {"source": "Z5SoOTblHbJHl6VuyPzG-44", "target": "Z5SoOTblHbJHl6VuyPzG-46", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-51": {"source": "Z5SoOTblHbJHl6VuyPzG-48", "target": "Z5SoOTblHbJHl6VuyPzG-50", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-58": {"source": "Z5SoOTblHbJHl6VuyPzG-55", "target": "Z5SoOTblHbJHl6VuyPzG-57", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-62": {"source": "Z5SoOTblHbJHl6VuyPzG-59", "target": "Z5SoOTblHbJHl6VuyPzG-61", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-84": {"source": "Z5SoOTblHbJHl6VuyPzG-59", "target": "Z5SoOTblHbJHl6VuyPzG-83", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-64": {"source": "Z5SoOTblHbJHl6VuyPzG-61", "target": "Z5SoOTblHbJHl6VuyPzG-63", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-74": {"source": "Z5SoOTblHbJHl6VuyPzG-61", "target": "Z5SoOTblHbJHl6VuyPzG-73", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-66": {"source": "Z5SoOTblHbJHl6VuyPzG-63", "target": "Z5SoOTblHbJHl6VuyPzG-65", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-70": {"source": "Z5SoOTblHbJHl6VuyPzG-63", "target": "Z5SoOTblHbJHl6VuyPzG-69", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-68": {"source": "Z5SoOTblHbJHl6VuyPzG-65", "target": "Z5SoOTblHbJHl6VuyPzG-67", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-72": {"source": "Z5SoOTblHbJHl6VuyPzG-69", "target": "Z5SoOTblHbJHl6VuyPzG-71", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-76": {"source": "Z5SoOTblHbJHl6VuyPzG-73", "target": "Z5SoOTblHbJHl6VuyPzG-75", "condtion": "Yes"}, "Z5SoOTblHbJHl6VuyPzG-78": {"source": "Z5SoOTblHbJHl6VuyPzG-73", "target": "Z5SoOTblHbJHl6VuyPzG-77", "condtion": "No"}, "Z5SoOTblHbJHl6VuyPzG-80": {"source": "Z5SoOTblHbJHl6VuyPzG-75", "target": "Z5SoOTblHbJHl6VuyPzG-79", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-82": {"source": "Z5SoOTblHbJHl6VuyPzG-77", "target": "Z5SoOTblHbJHl6VuyPzG-81", "condtion": ""}, "Z5SoOTblHbJHl6VuyPzG-88": {"source": "Z5SoOTblHbJHl6VuyPzG-83", "target": "Z5SoOTblHbJHl6VuyPzG-87", "condtion": ""}}, "dyWy75i-FhSXQeEBGfzN-5"]}
+{
+  "page1": [
+    {
+      "dyWy75i-FhSXQeEBGfzN-2": {
+        "msg": "You have selected\u00a0Transfer Money",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-4": {
+        "msg": "How many transfers do you make per day typically?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-6": {
+        "msg": "What percentage of your transfer payments are predictable and able to be scheduled in advance?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-8": {
+        "msg": "What percentage of your transfer payments are\u00a0predictable and able to be scheduled in advance?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-10": {
+        "msg": "Based on what we know about you, here are the recommended products",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-12": {
+        "msg": "Disbursements via Zelle/Real-time payments/Wire/ACH",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-15": {
+        "msg": "Does your business haveever need to make international payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-18": {
+        "msg": "Do you have a need\u00a0to\u00a0issue payments to consumers or micro-businesses?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-20": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-22": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-24": { "msg": "ACH", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-26": { "msg": "ACH/Wire", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-28": {
+        "msg": "Does your business have ever need\u00a0to make international payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-30": {
+        "msg": "Do you ever need to make same-day payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-32": {
+        "msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-34": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-36": {
+        "msg": "Disbursements via Zelle/Real-time payments/Wire",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-38": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-40": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-42": {
+        "msg": "Disbursements via Zelle/Wire",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-44": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-46": {
+        "msg": "Disbursements via Zelle/Wire/Real-time payments",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-48": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-50": {
+        "msg": "Disbursements via Zelle/Wire",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-52": {
+        "msg": "Do you ever need to make same-day payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-54": {
+        "msg": "Are the same-day payments ever on\u00a0weekends, holidays, or off banking hours?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-56": {
+        "msg": "Are your same\u00a0day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-58": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-60": {
+        "msg": "Disbursements via Zelle/Real-time payments/Wire",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-62": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-64": {
+        "msg": "Disbursements via Zelle/Wire",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-67": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-69": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-71": {
+        "msg": "Disbursements via Zelle/Wire",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-74": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-76": {
+        "msg": "Disbursements via Zelle/Real-time payments",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-78": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-80": {
+        "msg": "Disbursements via Zelle/ACH",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-83": {
+        "msg": "Does your business have\u00a0ever need to make international payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-86": {
+        "msg": "Do you ever need to\u00a0make same-day payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-88": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-90": {
+        "msg": "Wire/Real-time payments",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-99": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-101": { "msg": "Wire", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-103": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-105": { "msg": "ACH", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-107": {
+        "msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-111": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-113": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-115": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-117": { "msg": "Wire", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-119": {
+        "msg": "Wire/Real-time payments",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-121": {
+        "msg": "Do you ever need to make same-day payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-124": {
+        "msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-126": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-128": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-130": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-132": {
+        "msg": "Real-time payments/Wire",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-134": {
+        "msg": "ACH/Real-time payments",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-136": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-140": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-142": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-144": { "msg": "Wire", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-146": {
+        "msg": "ACH/Real-time payments",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-148": {
+        "msg": "Do you have a need to issue payments to consumers or\u00a0micro-businesses?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-150": {
+        "msg": "Does your business have ever need to make international payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-152": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-154": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-156": { "msg": "ACH/Wire", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-158": { "msg": "ACH", "type": "end" },
+      "dyWy75i-FhSXQeEBGfzN-160": {
+        "msg": "Does your business have ever need to\u00a0make international\u00a0payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-162": {
+        "msg": "Do you ever need to make same-day payments?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-164": {
+        "msg": "Are the same-day payments ever on weekends, holidays,\u00a0or off banking hours?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-166": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-168": {
+        "msg": "Disbursements via Zelle/Real-time payments/Wire/ACH",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-170": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "dyWy75i-FhSXQeEBGfzN-172": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-174": {
+        "msg": "Disbursements via Zelle/Wire/ACH",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-176": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-178": {
+        "msg": "Disbursements via Zelle/Wire/Real-time payments/ACH",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-180": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "dyWy75i-FhSXQeEBGfzN-182": {
+        "msg": "Disbursements via Zelle/Wire/ACH",
+        "type": "end"
+      },
+      "dyWy75i-FhSXQeEBGfzN-184": {
+        "msg": "Do you ever need to make same-day payments?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-1": {
+        "msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-3": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-5": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-7": {
+        "msg": "Disbursements via Zelle/Real-time payments/Wire/ACH",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-9": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-11": {
+        "msg": "Disbursements via Zelle/Wire/ACH",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-13": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-15": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-17": {
+        "msg": "Disbursements via Zelle/Wire/ACH",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-19": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-21": {
+        "msg": "Disbursements via Zelle/Real-time payments/ACH",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-23": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-25": {
+        "msg": "Disbursements via Zelle/ACH",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-27": {
+        "msg": "Does your business have ever need to make international payments?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-29": {
+        "msg": "Do you ever need to make same-day payments?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-31": {
+        "msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-35": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-37": {
+        "msg": "Wire/Real-time payments",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-39": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-44": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-46": { "msg": "Wire", "type": "end" },
+      "Z5SoOTblHbJHl6VuyPzG-48": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-50": {
+        "msg": "Wire/Real-time payments",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-55": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-57": { "msg": "Wire", "type": "end" },
+      "Z5SoOTblHbJHl6VuyPzG-59": {
+        "msg": "Do you ever need to make same-day payments?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-61": {
+        "msg": "Are the same-day payments ever on weekends, holidays, or off banking hours?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-63": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-65": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-67": {
+        "msg": "Real-time payments/Wire",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-69": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-71": {
+        "msg": "ACH/Real-time payments",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-73": {
+        "msg": "Are your same day payments ever greater than $100,000?",
+        "type": "check"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-75": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-77": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-79": { "msg": "Wire", "type": "end" },
+      "Z5SoOTblHbJHl6VuyPzG-81": {
+        "msg": "ACH/Real-time payments",
+        "type": "end"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-83": {
+        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "type": "message"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-87": { "msg": "ACH", "type": "end" }
+    },
+    {
+      "dyWy75i-FhSXQeEBGfzN-3": {
+        "source": "dyWy75i-FhSXQeEBGfzN-1",
+        "target": "dyWy75i-FhSXQeEBGfzN-2",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-5": {
+        "source": "dyWy75i-FhSXQeEBGfzN-2",
+        "target": "dyWy75i-FhSXQeEBGfzN-4",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-7": {
+        "source": "dyWy75i-FhSXQeEBGfzN-4",
+        "target": "dyWy75i-FhSXQeEBGfzN-6",
+        "condtion": "<2"
+      },
+      "dyWy75i-FhSXQeEBGfzN-9": {
+        "source": "dyWy75i-FhSXQeEBGfzN-4",
+        "target": "dyWy75i-FhSXQeEBGfzN-8",
+        "condtion": ">2"
+      },
+      "dyWy75i-FhSXQeEBGfzN-11": {
+        "source": "dyWy75i-FhSXQeEBGfzN-4",
+        "target": "dyWy75i-FhSXQeEBGfzN-10",
+        "condtion": "I know what product I want"
+      },
+      "dyWy75i-FhSXQeEBGfzN-16": {
+        "source": "dyWy75i-FhSXQeEBGfzN-6",
+        "target": "dyWy75i-FhSXQeEBGfzN-15",
+        "condtion": "100%"
+      },
+      "dyWy75i-FhSXQeEBGfzN-19": {
+        "source": "dyWy75i-FhSXQeEBGfzN-6",
+        "target": "dyWy75i-FhSXQeEBGfzN-18",
+        "condtion": "<100%"
+      },
+      "dyWy75i-FhSXQeEBGfzN-149": {
+        "source": "dyWy75i-FhSXQeEBGfzN-8",
+        "target": "dyWy75i-FhSXQeEBGfzN-148",
+        "condtion": "<100%"
+      },
+      "dyWy75i-FhSXQeEBGfzN-151": {
+        "source": "dyWy75i-FhSXQeEBGfzN-8",
+        "target": "dyWy75i-FhSXQeEBGfzN-150",
+        "condtion": "100%"
+      },
+      "dyWy75i-FhSXQeEBGfzN-13": {
+        "source": "dyWy75i-FhSXQeEBGfzN-10",
+        "target": "dyWy75i-FhSXQeEBGfzN-12",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-21": {
+        "source": "dyWy75i-FhSXQeEBGfzN-15",
+        "target": "dyWy75i-FhSXQeEBGfzN-20",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-23": {
+        "source": "dyWy75i-FhSXQeEBGfzN-15",
+        "target": "dyWy75i-FhSXQeEBGfzN-22",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-29": {
+        "source": "dyWy75i-FhSXQeEBGfzN-18",
+        "target": "dyWy75i-FhSXQeEBGfzN-28",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-84": {
+        "source": "dyWy75i-FhSXQeEBGfzN-18",
+        "target": "dyWy75i-FhSXQeEBGfzN-83",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-25": {
+        "source": "dyWy75i-FhSXQeEBGfzN-20",
+        "target": "dyWy75i-FhSXQeEBGfzN-24",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-27": {
+        "source": "dyWy75i-FhSXQeEBGfzN-22",
+        "target": "dyWy75i-FhSXQeEBGfzN-26",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-31": {
+        "source": "dyWy75i-FhSXQeEBGfzN-28",
+        "target": "dyWy75i-FhSXQeEBGfzN-30",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-53": {
+        "source": "dyWy75i-FhSXQeEBGfzN-28",
+        "target": "dyWy75i-FhSXQeEBGfzN-52",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-33": {
+        "source": "dyWy75i-FhSXQeEBGfzN-30",
+        "target": "dyWy75i-FhSXQeEBGfzN-32",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-49": {
+        "source": "dyWy75i-FhSXQeEBGfzN-30",
+        "target": "dyWy75i-FhSXQeEBGfzN-48",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-35": {
+        "source": "dyWy75i-FhSXQeEBGfzN-32",
+        "target": "dyWy75i-FhSXQeEBGfzN-34",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-39": {
+        "source": "dyWy75i-FhSXQeEBGfzN-32",
+        "target": "dyWy75i-FhSXQeEBGfzN-38",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-37": {
+        "source": "dyWy75i-FhSXQeEBGfzN-34",
+        "target": "dyWy75i-FhSXQeEBGfzN-36",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-41": {
+        "source": "dyWy75i-FhSXQeEBGfzN-38",
+        "target": "dyWy75i-FhSXQeEBGfzN-40",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-45": {
+        "source": "dyWy75i-FhSXQeEBGfzN-38",
+        "target": "dyWy75i-FhSXQeEBGfzN-44",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-43": {
+        "source": "dyWy75i-FhSXQeEBGfzN-40",
+        "target": "dyWy75i-FhSXQeEBGfzN-42",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-47": {
+        "source": "dyWy75i-FhSXQeEBGfzN-44",
+        "target": "dyWy75i-FhSXQeEBGfzN-46",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-51": {
+        "source": "dyWy75i-FhSXQeEBGfzN-48",
+        "target": "dyWy75i-FhSXQeEBGfzN-50",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-55": {
+        "source": "dyWy75i-FhSXQeEBGfzN-52",
+        "target": "dyWy75i-FhSXQeEBGfzN-54",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-79": {
+        "source": "dyWy75i-FhSXQeEBGfzN-52",
+        "target": "dyWy75i-FhSXQeEBGfzN-78",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-57": {
+        "source": "dyWy75i-FhSXQeEBGfzN-54",
+        "target": "dyWy75i-FhSXQeEBGfzN-56",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-68": {
+        "source": "dyWy75i-FhSXQeEBGfzN-54",
+        "target": "dyWy75i-FhSXQeEBGfzN-67",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-59": {
+        "source": "dyWy75i-FhSXQeEBGfzN-56",
+        "target": "dyWy75i-FhSXQeEBGfzN-58",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-63": {
+        "source": "dyWy75i-FhSXQeEBGfzN-56",
+        "target": "dyWy75i-FhSXQeEBGfzN-62",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-61": {
+        "source": "dyWy75i-FhSXQeEBGfzN-58",
+        "target": "dyWy75i-FhSXQeEBGfzN-60",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-65": {
+        "source": "dyWy75i-FhSXQeEBGfzN-62",
+        "target": "dyWy75i-FhSXQeEBGfzN-64",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-70": {
+        "source": "dyWy75i-FhSXQeEBGfzN-67",
+        "target": "dyWy75i-FhSXQeEBGfzN-69",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-75": {
+        "source": "dyWy75i-FhSXQeEBGfzN-67",
+        "target": "dyWy75i-FhSXQeEBGfzN-74",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-72": {
+        "source": "dyWy75i-FhSXQeEBGfzN-69",
+        "target": "dyWy75i-FhSXQeEBGfzN-71",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-77": {
+        "source": "dyWy75i-FhSXQeEBGfzN-74",
+        "target": "dyWy75i-FhSXQeEBGfzN-76",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-81": {
+        "source": "dyWy75i-FhSXQeEBGfzN-78",
+        "target": "dyWy75i-FhSXQeEBGfzN-80",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-87": {
+        "source": "dyWy75i-FhSXQeEBGfzN-83",
+        "target": "dyWy75i-FhSXQeEBGfzN-86",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-122": {
+        "source": "dyWy75i-FhSXQeEBGfzN-83",
+        "target": "dyWy75i-FhSXQeEBGfzN-121",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-93": {
+        "source": "dyWy75i-FhSXQeEBGfzN-86",
+        "target": "dyWy75i-FhSXQeEBGfzN-99",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-108": {
+        "source": "dyWy75i-FhSXQeEBGfzN-86",
+        "target": "dyWy75i-FhSXQeEBGfzN-107",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-91": {
+        "source": "dyWy75i-FhSXQeEBGfzN-88",
+        "target": "dyWy75i-FhSXQeEBGfzN-90",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-102": {
+        "source": "dyWy75i-FhSXQeEBGfzN-99",
+        "target": "dyWy75i-FhSXQeEBGfzN-101",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-106": {
+        "source": "dyWy75i-FhSXQeEBGfzN-103",
+        "target": "dyWy75i-FhSXQeEBGfzN-105",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-110": {
+        "source": "dyWy75i-FhSXQeEBGfzN-107",
+        "target": "dyWy75i-FhSXQeEBGfzN-88",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-112": {
+        "source": "dyWy75i-FhSXQeEBGfzN-107",
+        "target": "dyWy75i-FhSXQeEBGfzN-111",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-114": {
+        "source": "dyWy75i-FhSXQeEBGfzN-111",
+        "target": "dyWy75i-FhSXQeEBGfzN-113",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-116": {
+        "source": "dyWy75i-FhSXQeEBGfzN-111",
+        "target": "dyWy75i-FhSXQeEBGfzN-115",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-118": {
+        "source": "dyWy75i-FhSXQeEBGfzN-113",
+        "target": "dyWy75i-FhSXQeEBGfzN-117",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-120": {
+        "source": "dyWy75i-FhSXQeEBGfzN-115",
+        "target": "dyWy75i-FhSXQeEBGfzN-119",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-123": {
+        "source": "dyWy75i-FhSXQeEBGfzN-121",
+        "target": "dyWy75i-FhSXQeEBGfzN-103",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-125": {
+        "source": "dyWy75i-FhSXQeEBGfzN-121",
+        "target": "dyWy75i-FhSXQeEBGfzN-124",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-127": {
+        "source": "dyWy75i-FhSXQeEBGfzN-124",
+        "target": "dyWy75i-FhSXQeEBGfzN-126",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-137": {
+        "source": "dyWy75i-FhSXQeEBGfzN-124",
+        "target": "dyWy75i-FhSXQeEBGfzN-136",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-129": {
+        "source": "dyWy75i-FhSXQeEBGfzN-126",
+        "target": "dyWy75i-FhSXQeEBGfzN-128",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-131": {
+        "source": "dyWy75i-FhSXQeEBGfzN-126",
+        "target": "dyWy75i-FhSXQeEBGfzN-130",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-133": {
+        "source": "dyWy75i-FhSXQeEBGfzN-128",
+        "target": "dyWy75i-FhSXQeEBGfzN-132",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-135": {
+        "source": "dyWy75i-FhSXQeEBGfzN-130",
+        "target": "dyWy75i-FhSXQeEBGfzN-134",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-141": {
+        "source": "dyWy75i-FhSXQeEBGfzN-136",
+        "target": "dyWy75i-FhSXQeEBGfzN-140",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-143": {
+        "source": "dyWy75i-FhSXQeEBGfzN-136",
+        "target": "dyWy75i-FhSXQeEBGfzN-142",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-145": {
+        "source": "dyWy75i-FhSXQeEBGfzN-140",
+        "target": "dyWy75i-FhSXQeEBGfzN-144",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-147": {
+        "source": "dyWy75i-FhSXQeEBGfzN-142",
+        "target": "dyWy75i-FhSXQeEBGfzN-146",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-161": {
+        "source": "dyWy75i-FhSXQeEBGfzN-148",
+        "target": "dyWy75i-FhSXQeEBGfzN-160",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-28": {
+        "source": "dyWy75i-FhSXQeEBGfzN-148",
+        "target": "Z5SoOTblHbJHl6VuyPzG-27",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-153": {
+        "source": "dyWy75i-FhSXQeEBGfzN-150",
+        "target": "dyWy75i-FhSXQeEBGfzN-152",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-155": {
+        "source": "dyWy75i-FhSXQeEBGfzN-150",
+        "target": "dyWy75i-FhSXQeEBGfzN-154",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-157": {
+        "source": "dyWy75i-FhSXQeEBGfzN-152",
+        "target": "dyWy75i-FhSXQeEBGfzN-156",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-159": {
+        "source": "dyWy75i-FhSXQeEBGfzN-154",
+        "target": "dyWy75i-FhSXQeEBGfzN-158",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-163": {
+        "source": "dyWy75i-FhSXQeEBGfzN-160",
+        "target": "dyWy75i-FhSXQeEBGfzN-162",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-185": {
+        "source": "dyWy75i-FhSXQeEBGfzN-160",
+        "target": "dyWy75i-FhSXQeEBGfzN-184",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-165": {
+        "source": "dyWy75i-FhSXQeEBGfzN-162",
+        "target": "dyWy75i-FhSXQeEBGfzN-164",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-181": {
+        "source": "dyWy75i-FhSXQeEBGfzN-162",
+        "target": "dyWy75i-FhSXQeEBGfzN-180",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-167": {
+        "source": "dyWy75i-FhSXQeEBGfzN-164",
+        "target": "dyWy75i-FhSXQeEBGfzN-166",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-171": {
+        "source": "dyWy75i-FhSXQeEBGfzN-164",
+        "target": "dyWy75i-FhSXQeEBGfzN-170",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-169": {
+        "source": "dyWy75i-FhSXQeEBGfzN-166",
+        "target": "dyWy75i-FhSXQeEBGfzN-168",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-173": {
+        "source": "dyWy75i-FhSXQeEBGfzN-170",
+        "target": "dyWy75i-FhSXQeEBGfzN-172",
+        "condtion": "Yes"
+      },
+      "dyWy75i-FhSXQeEBGfzN-177": {
+        "source": "dyWy75i-FhSXQeEBGfzN-170",
+        "target": "dyWy75i-FhSXQeEBGfzN-176",
+        "condtion": "No"
+      },
+      "dyWy75i-FhSXQeEBGfzN-175": {
+        "source": "dyWy75i-FhSXQeEBGfzN-172",
+        "target": "dyWy75i-FhSXQeEBGfzN-174",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-179": {
+        "source": "dyWy75i-FhSXQeEBGfzN-176",
+        "target": "dyWy75i-FhSXQeEBGfzN-178",
+        "condtion": ""
+      },
+      "dyWy75i-FhSXQeEBGfzN-183": {
+        "source": "dyWy75i-FhSXQeEBGfzN-180",
+        "target": "dyWy75i-FhSXQeEBGfzN-182",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-2": {
+        "source": "dyWy75i-FhSXQeEBGfzN-184",
+        "target": "Z5SoOTblHbJHl6VuyPzG-1",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-24": {
+        "source": "dyWy75i-FhSXQeEBGfzN-184",
+        "target": "Z5SoOTblHbJHl6VuyPzG-23",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-4": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-1",
+        "target": "Z5SoOTblHbJHl6VuyPzG-3",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-14": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-1",
+        "target": "Z5SoOTblHbJHl6VuyPzG-13",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-6": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-3",
+        "target": "Z5SoOTblHbJHl6VuyPzG-5",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-10": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-3",
+        "target": "Z5SoOTblHbJHl6VuyPzG-9",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-8": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-5",
+        "target": "Z5SoOTblHbJHl6VuyPzG-7",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-12": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-9",
+        "target": "Z5SoOTblHbJHl6VuyPzG-11",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-16": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-13",
+        "target": "Z5SoOTblHbJHl6VuyPzG-15",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-20": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-13",
+        "target": "Z5SoOTblHbJHl6VuyPzG-19",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-18": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-15",
+        "target": "Z5SoOTblHbJHl6VuyPzG-17",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-22": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-19",
+        "target": "Z5SoOTblHbJHl6VuyPzG-21",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-26": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-23",
+        "target": "Z5SoOTblHbJHl6VuyPzG-25",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-30": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-27",
+        "target": "Z5SoOTblHbJHl6VuyPzG-29",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-60": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-27",
+        "target": "Z5SoOTblHbJHl6VuyPzG-59",
+        "condtion": "NO"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-32": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-29",
+        "target": "Z5SoOTblHbJHl6VuyPzG-31",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-56": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-29",
+        "target": "Z5SoOTblHbJHl6VuyPzG-55",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-36": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-31",
+        "target": "Z5SoOTblHbJHl6VuyPzG-35",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-40": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-31",
+        "target": "Z5SoOTblHbJHl6VuyPzG-39",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-38": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-35",
+        "target": "Z5SoOTblHbJHl6VuyPzG-37",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-45": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-39",
+        "target": "Z5SoOTblHbJHl6VuyPzG-44",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-49": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-39",
+        "target": "Z5SoOTblHbJHl6VuyPzG-48",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-47": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-44",
+        "target": "Z5SoOTblHbJHl6VuyPzG-46",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-51": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-48",
+        "target": "Z5SoOTblHbJHl6VuyPzG-50",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-58": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-55",
+        "target": "Z5SoOTblHbJHl6VuyPzG-57",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-62": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-59",
+        "target": "Z5SoOTblHbJHl6VuyPzG-61",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-84": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-59",
+        "target": "Z5SoOTblHbJHl6VuyPzG-83",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-64": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-61",
+        "target": "Z5SoOTblHbJHl6VuyPzG-63",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-74": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-61",
+        "target": "Z5SoOTblHbJHl6VuyPzG-73",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-66": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-63",
+        "target": "Z5SoOTblHbJHl6VuyPzG-65",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-70": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-63",
+        "target": "Z5SoOTblHbJHl6VuyPzG-69",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-68": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-65",
+        "target": "Z5SoOTblHbJHl6VuyPzG-67",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-72": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-69",
+        "target": "Z5SoOTblHbJHl6VuyPzG-71",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-76": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-73",
+        "target": "Z5SoOTblHbJHl6VuyPzG-75",
+        "condtion": "Yes"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-78": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-73",
+        "target": "Z5SoOTblHbJHl6VuyPzG-77",
+        "condtion": "No"
+      },
+      "Z5SoOTblHbJHl6VuyPzG-80": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-75",
+        "target": "Z5SoOTblHbJHl6VuyPzG-79",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-82": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-77",
+        "target": "Z5SoOTblHbJHl6VuyPzG-81",
+        "condtion": ""
+      },
+      "Z5SoOTblHbJHl6VuyPzG-88": {
+        "source": "Z5SoOTblHbJHl6VuyPzG-83",
+        "target": "Z5SoOTblHbJHl6VuyPzG-87",
+        "condtion": ""
+      }
+    },
+    "dyWy75i-FhSXQeEBGfzN-5"
+  ]
+}
