@@ -27,7 +27,7 @@
         "msg": "<$200,000;$200,000-$400,000;$400,000-$600,000;$600,000-$800,000;>$800,000",
         "type": "options"
       },
-      "cSqQtDFlFd2osmKXhp_y-3": { "msg": "Coming Soon, WIP", "type": "end" },
+      "cSqQtDFlFd2osmKXhp_y-3": { "msg": "Money_Transfer", "type": "end" },
       "cSqQtDFlFd2osmKXhp_y-4": { "msg": "Protect_Payments", "type": "end" },
       "cSqQtDFlFd2osmKXhp_y-5": { "msg": "Digital_Payments", "type": "end" }
     },
