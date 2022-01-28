@@ -12,7 +12,7 @@
       },
       "Vkk1kHjjtwqD61RsSIxe-10": { "msg": "Enter revenue", "type": "input" },
       "Vkk1kHjjtwqD61RsSIxe-12": {
-        "msg": "Thanks! What product need can I help you with today (Transfer Money, Prevent Payment Fraud, Deposit Checks)?",
+        "msg": "Thanks! What product need can I help you with today?",
         "type": "message"
       },
       "Vkk1kHjjtwqD61RsSIxe-20": {
