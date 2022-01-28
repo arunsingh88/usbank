@@ -6,7 +6,7 @@
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-5": {
-        "msg": "Thanks for clarifying!. How many checks per month, at maximum, does your business receive and deposit?",
+        "msg": "How many checks per month, at maximum, does your business receive and deposit?",
         "type": "check"
       },
       "77S6hdfyZ6bM4Nf4Giki-9": {
@@ -18,7 +18,7 @@
         "type": "check"
       },
       "77S6hdfyZ6bM4Nf4Giki-15": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts >300 checks monthly, I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-16": {
@@ -42,11 +42,11 @@
         "type": "check"
       },
       "77S6hdfyZ6bM4Nf4Giki-30": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000, and requires control of individual access for deposits , I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-32": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000, and doesn\u2019t require control of individual access for deposits , I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-34": {
@@ -58,11 +58,11 @@
         "type": "end"
       },
       "77S6hdfyZ6bM4Nf4Giki-38": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000, and requires control of individual access for deposits , I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-40": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000, and doesn\u2019t require control of individual access for deposits , I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-45": {
@@ -71,7 +71,7 @@
       },
       "77S6hdfyZ6bM4Nf4Giki-47": { "msg": "Deposit Express", "type": "end" },
       "77S6hdfyZ6bM4Nf4Giki-52": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, and operates in multiple business sites , I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-53": {
@@ -83,7 +83,7 @@
         "type": "check"
       },
       "77S6hdfyZ6bM4Nf4Giki-56": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and require control of individual access for deposits, I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-60": {
@@ -95,11 +95,11 @@
         "type": "end"
       },
       "77S6hdfyZ6bM4Nf4Giki-64": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and have a need to frequently deposit non-monetary remittances, I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-66": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and doesn\u2019t have a need to frequently deposit non-monetary remittances, I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-68": {
@@ -112,7 +112,7 @@
         "type": "check"
       },
       "77S6hdfyZ6bM4Nf4Giki-79": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and requires control of individual access for deposits, I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-82": {
@@ -124,7 +124,7 @@
         "type": "check"
       },
       "77S6hdfyZ6bM4Nf4Giki-86": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and needs to frequently deposit non-monetary remittances remotely, I recommend:",
         "type": "message"
       },
       "77S6hdfyZ6bM4Nf4Giki-88": {
@@ -140,14 +140,51 @@
         "msg": "Based on what we know about you, here are the recommended products",
         "type": "message"
       },
-      "PBgFz3OS81D7Ok9Yo7N_-312": {
-        "msg": "It sounds like you are trying to learn more about deposit checks products (On-Site Electronic Deposit/Mobile CheckDeposit/ Deposit Express)",
-        "type": "message"
-      },
       "PBgFz3OS81D7Ok9Yo7N_-6": {
         "msg": "On-Site Electronic Deposit/Mobile Check Deposit/ Deposit Express",
         "type": "end"
-      }
+      },
+      "K0KJIPZYdewqScO5tKnd-25": {
+        "msg": "Do you operate multiple business sites, more than a mile apart, that frequently receive a significant volume of checks?",
+        "type": "check"
+      },
+      "K0KJIPZYdewqScO5tKnd-27": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, and operates in multiple business sites , I recommend:",
+        "type": "message"
+      },
+      "K0KJIPZYdewqScO5tKnd-28": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "K0KJIPZYdewqScO5tKnd-31": {
+        "msg": "Do you require the ability to control individual access to make deposits?",
+        "type": "check"
+      },
+      "K0KJIPZYdewqScO5tKnd-33": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and requires control of individual access for deposits, I recommend:",
+        "type": "message"
+      },
+      "K0KJIPZYdewqScO5tKnd-36": {
+        "msg": "Do you have a need to frequently deposit non-monetary remittances remotely?",
+        "type": "check"
+      },
+      "K0KJIPZYdewqScO5tKnd-37": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "K0KJIPZYdewqScO5tKnd-39": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, needs to frequently deposit non-monetary remittances remotely, I recommend:",
+        "type": "message"
+      },
+      "K0KJIPZYdewqScO5tKnd-41": {
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and doesn\u2019t need to frequently deposit non-monetary remittances remotely, I recommend:",
+        "type": "message"
+      },
+      "K0KJIPZYdewqScO5tKnd-42": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "K0KJIPZYdewqScO5tKnd-43": { "msg": "Deposit Express", "type": "end" }
     },
     {
       "77S6hdfyZ6bM4Nf4Giki-6": {
@@ -163,7 +200,7 @@
       "77S6hdfyZ6bM4Nf4Giki-12": {
         "source": "77S6hdfyZ6bM4Nf4Giki-5",
         "target": "77S6hdfyZ6bM4Nf4Giki-11",
-        "condtion": "500-300"
+        "condtion": "50-300"
       },
       "77S6hdfyZ6bM4Nf4Giki-14": {
         "source": "77S6hdfyZ6bM4Nf4Giki-5",
@@ -183,17 +220,17 @@
       "77S6hdfyZ6bM4Nf4Giki-24": {
         "source": "77S6hdfyZ6bM4Nf4Giki-9",
         "target": "77S6hdfyZ6bM4Nf4Giki-22",
-        "condtion": ">30,000"
+        "condtion": ">$30,000"
       },
       "77S6hdfyZ6bM4Nf4Giki-76": {
         "source": "77S6hdfyZ6bM4Nf4Giki-11",
         "target": "77S6hdfyZ6bM4Nf4Giki-75",
-        "condtion": "<30,000"
+        "condtion": "<$30,000"
       },
       "77S6hdfyZ6bM4Nf4Giki-96": {
         "source": "77S6hdfyZ6bM4Nf4Giki-11",
-        "target": "77S6hdfyZ6bM4Nf4Giki-22",
-        "condtion": ">30,000"
+        "target": "K0KJIPZYdewqScO5tKnd-25",
+        "condtion": ">$30,000"
       },
       "77S6hdfyZ6bM4Nf4Giki-17": {
         "source": "77S6hdfyZ6bM4Nf4Giki-15",
@@ -345,9 +382,54 @@
         "target": "PBgFz3OS81D7Ok9Yo7N_-6",
         "condtion": ""
       },
-      "PBgFz3OS81D7Ok9Yo7N_-712": {
-        "source": "PBgFz3OS81D7Ok9Yo7N_-312",
-        "target": "PBgFz3OS81D7Ok9Yo7N_-6",
+      "K0KJIPZYdewqScO5tKnd-22": {
+        "source": "K0KJIPZYdewqScO5tKnd-25",
+        "target": "K0KJIPZYdewqScO5tKnd-27",
+        "condtion": "Yes"
+      },
+      "K0KJIPZYdewqScO5tKnd-24": {
+        "source": "K0KJIPZYdewqScO5tKnd-25",
+        "target": "K0KJIPZYdewqScO5tKnd-31",
+        "condtion": "No"
+      },
+      "K0KJIPZYdewqScO5tKnd-26": {
+        "source": "K0KJIPZYdewqScO5tKnd-27",
+        "target": "K0KJIPZYdewqScO5tKnd-28",
+        "condtion": ""
+      },
+      "K0KJIPZYdewqScO5tKnd-29": {
+        "source": "K0KJIPZYdewqScO5tKnd-31",
+        "target": "K0KJIPZYdewqScO5tKnd-33",
+        "condtion": "Yes"
+      },
+      "K0KJIPZYdewqScO5tKnd-30": {
+        "source": "K0KJIPZYdewqScO5tKnd-31",
+        "target": "K0KJIPZYdewqScO5tKnd-36",
+        "condtion": "No"
+      },
+      "K0KJIPZYdewqScO5tKnd-32": {
+        "source": "K0KJIPZYdewqScO5tKnd-33",
+        "target": "K0KJIPZYdewqScO5tKnd-37",
+        "condtion": ""
+      },
+      "K0KJIPZYdewqScO5tKnd-34": {
+        "source": "K0KJIPZYdewqScO5tKnd-36",
+        "target": "K0KJIPZYdewqScO5tKnd-39",
+        "condtion": "Yes"
+      },
+      "K0KJIPZYdewqScO5tKnd-35": {
+        "source": "K0KJIPZYdewqScO5tKnd-36",
+        "target": "K0KJIPZYdewqScO5tKnd-41",
+        "condtion": "No"
+      },
+      "K0KJIPZYdewqScO5tKnd-38": {
+        "source": "K0KJIPZYdewqScO5tKnd-39",
+        "target": "K0KJIPZYdewqScO5tKnd-42",
+        "condtion": ""
+      },
+      "K0KJIPZYdewqScO5tKnd-40": {
+        "source": "K0KJIPZYdewqScO5tKnd-41",
+        "target": "K0KJIPZYdewqScO5tKnd-43",
         "condtion": ""
       }
     },
