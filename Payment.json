@@ -34,11 +34,11 @@
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-7": {
-        "msg": "Electronic Positive Pay & Paper Positive Pay",
+        "msg": "ACH Positive Pay & Paper Positive Pay",
         "type": "end"
       },
       "bWfzHslepsMsLRYXzKlo-9": {
-        "msg": "Electronic Positive Pay",
+        "msg": "ACH Positive Pay",
         "type": "end"
       },
       "bWfzHslepsMsLRYXzKlo-11": { "msg": "Paper Positive Pay", "type": "end" },
@@ -52,7 +52,7 @@
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-18": {
-        "msg": "Electronic Positive Pay/Paper Positive Pay",
+        "msg": "ACH Positive Pay/Paper Positive Pay",
         "type": "end"
       }
     },
