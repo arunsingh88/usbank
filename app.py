@@ -1,3 +1,4 @@
+from dataclasses import dataclass
 from flask import Flask, request, jsonify
 from flask_cors import CORS, cross_origin
 import json
@@ -33,12 +34,19 @@ def moneytransfer_read_json():
     return data
 
 
+def home_signin_json():
+    with open('Home_signin.json') as f:
+        data = json.load(f)
+    return data
+
+
 required_json = read_json()
 payment_json = payment_read_json()
 deposit_json = deposit_read_json()
 money_json = moneytransfer_read_json()
+signin_json = home_signin_json()
 json_data = {"home": required_json, "Digital_Payments": deposit_json,
-             "Protect_Payments": payment_json, "Money_Transfer": money_json}
+             "Protect_Payments": payment_json, "Money_Transfer": money_json, "home_login": signin_json}
 
 
 def get_nextstep(target, data):
@@ -159,45 +167,50 @@ def chatbot():
     data = request.get_json()
     response = {"message": "", "payload": {
         "value": [], "message": ""}, "topic": ""}
-    if (data):
+    print(data)
+    if data and data["source"]:
+
         topic_json = json_data[data['topic']]
         path, source = get_nextstep(data['source'], topic_json)
         if path:
             box_msg = topic_json["page1"][0][source]
         else:
-
             box_msg = topic_json["page1"][0][data['source']]
         response = set_message(response, path, box_msg)
         while True:
             if response["payload"]["type"] in ["end", "buttons"]:
                 break
-
             path, source = get_nextstep(response["targetid"], topic_json)
             if path:
-
                 box_msg = topic_json["page1"][0][source]
             else:
-
                 box_msg = topic_json["page1"][0][response["targetid"]]
             response = set_message(response, path, box_msg)
         if not response["topic"]:
             response["topic"] = data['topic']
     else:
-        path = [json_data["home"]['page1'][1][json_data["home"]['page1'][2]]]
-        box_msg = json_data["home"]["page1"][0][path[0]["source"]]
-
+        if data['login'] == 'true':
+            print('I am here')
+            location = "home_login"
+        else:
+            location = "home"
+        path = [json_data[location]['page1'][1]
+                [json_data[location]['page1'][2]]]
+        box_msg = json_data[location]["page1"][0][path[0]["source"]]
         response = set_message(response, path, box_msg)
         while True:
-
             if response["payload"]["type"] in ["end", "buttons"]:
                 break
             path, source = get_nextstep(
-                response["targetid"], json_data["home"])
+                response["targetid"], json_data[location])
             response = set_message(
-                response, path, json_data["home"]["page1"][0][source])
-        response["topic"] = "home"
+                response, path, json_data[location]["page1"][0][source])
+        response["topic"] = location
+        if data['login'] == 'false':
+            response["payload"] = {}
     if "targetid" in response:
         response.pop("targetid")
+
     return jsonify({"response": response})
 
 

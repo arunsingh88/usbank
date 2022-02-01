@@ -1,0 +1,107 @@
+{
+  "page1": [
+    {
+      "U2pnFUaJx6OGbjqgS87--6": { "msg": "Enter industry", "type": "input" },
+      "U2pnFUaJx6OGbjqgS87--8": {
+        "msg": "Thank you, what is your monthly revenue?",
+        "type": "message"
+      },
+      "U2pnFUaJx6OGbjqgS87--10": { "msg": "Enter revenue", "type": "input" },
+      "U2pnFUaJx6OGbjqgS87--12": {
+        "msg": "Thanks! What product need can I help you with today (Transfer Money, Prevent Payment Fraud, Deposit Checks)?",
+        "type": "message"
+      },
+      "U2pnFUaJx6OGbjqgS87--16": {
+        "msg": "Select the options",
+        "type": "check"
+      },
+      "U2pnFUaJx6OGbjqgS87--18": {
+        "msg": "Retail;Manufacturing;Services; Construction;Healthcare;Professional Services;Restaurant / Food Services;Other",
+        "type": "options"
+      },
+      "U2pnFUaJx6OGbjqgS87--20": {
+        "msg": "<$200,000;$200,000-$400,000;$400,000-$600,000;$600,000-$800,000;>$800,000",
+        "type": "options"
+      },
+      "U2pnFUaJx6OGbjqgS87--21": { "msg": "Money_Transfer", "type": "end" },
+      "U2pnFUaJx6OGbjqgS87--22": { "msg": "Protect_Payments", "type": "end" },
+      "U2pnFUaJx6OGbjqgS87--23": { "msg": "Digital_Payments", "type": "end" },
+      "U2pnFUaJx6OGbjqgS87--24": {
+        "msg": "I see that you are a YYY company with ZZZ in monthly revenue, is that still accurate?",
+        "type": "check"
+      },
+      "U2pnFUaJx6OGbjqgS87--34": {
+        "msg": "Hello, \u201cXXX\u201d, I\u2019m Joey, your dedicated resource to finding the right solution.",
+        "type": "message"
+      }
+    },
+    {
+      "U2pnFUaJx6OGbjqgS87--35": {
+        "source": "U2pnFUaJx6OGbjqgS87--2",
+        "target": "U2pnFUaJx6OGbjqgS87--34",
+        "condtion": ""
+      },
+      "U2pnFUaJx6OGbjqgS87--5": {
+        "source": "U2pnFUaJx6OGbjqgS87--6",
+        "target": "U2pnFUaJx6OGbjqgS87--8",
+        "condtion": ""
+      },
+      "U2pnFUaJx6OGbjqgS87--7": {
+        "source": "U2pnFUaJx6OGbjqgS87--8",
+        "target": "U2pnFUaJx6OGbjqgS87--20",
+        "condtion": ""
+      },
+      "U2pnFUaJx6OGbjqgS87--9": {
+        "source": "U2pnFUaJx6OGbjqgS87--10",
+        "target": "U2pnFUaJx6OGbjqgS87--12",
+        "condtion": ""
+      },
+      "U2pnFUaJx6OGbjqgS87--11": {
+        "source": "U2pnFUaJx6OGbjqgS87--12",
+        "target": "U2pnFUaJx6OGbjqgS87--16",
+        "condtion": ""
+      },
+      "U2pnFUaJx6OGbjqgS87--13": {
+        "source": "U2pnFUaJx6OGbjqgS87--16",
+        "target": "U2pnFUaJx6OGbjqgS87--23",
+        "condtion": "Deposit Checks"
+      },
+      "U2pnFUaJx6OGbjqgS87--14": {
+        "source": "U2pnFUaJx6OGbjqgS87--16",
+        "target": "U2pnFUaJx6OGbjqgS87--21",
+        "condtion": "Transfer Money"
+      },
+      "U2pnFUaJx6OGbjqgS87--15": {
+        "source": "U2pnFUaJx6OGbjqgS87--16",
+        "target": "U2pnFUaJx6OGbjqgS87--22",
+        "condtion": "Prevent Payment Fraud"
+      },
+      "U2pnFUaJx6OGbjqgS87--17": {
+        "source": "U2pnFUaJx6OGbjqgS87--18",
+        "target": "U2pnFUaJx6OGbjqgS87--6",
+        "condtion": ""
+      },
+      "U2pnFUaJx6OGbjqgS87--19": {
+        "source": "U2pnFUaJx6OGbjqgS87--20",
+        "target": "U2pnFUaJx6OGbjqgS87--10",
+        "condtion": ""
+      },
+      "U2pnFUaJx6OGbjqgS87--32": {
+        "source": "U2pnFUaJx6OGbjqgS87--24",
+        "target": "U2pnFUaJx6OGbjqgS87--18",
+        "condtion": "No"
+      },
+      "U2pnFUaJx6OGbjqgS87--33": {
+        "source": "U2pnFUaJx6OGbjqgS87--24",
+        "target": "U2pnFUaJx6OGbjqgS87--12",
+        "condtion": "Yes"
+      },
+      "U2pnFUaJx6OGbjqgS87--36": {
+        "source": "U2pnFUaJx6OGbjqgS87--34",
+        "target": "U2pnFUaJx6OGbjqgS87--24",
+        "condtion": ""
+      }
+    },
+    "U2pnFUaJx6OGbjqgS87--36"
+  ]
+}
