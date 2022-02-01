@@ -26,7 +26,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-15": {
-        "msg": "Does your business haveever need to make international payments?",
+        "msg": "Does your business have ever need to make international payments?",
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-18": {
@@ -675,11 +675,6 @@
         "target": "dyWy75i-FhSXQeEBGfzN-99",
         "condtion": "No"
       },
-      "dyWy75i-FhSXQeEBGfzN-108": {
-        "source": "dyWy75i-FhSXQeEBGfzN-86",
-        "target": "dyWy75i-FhSXQeEBGfzN-107",
-        "condtion": "Yes"
-      },
       "dyWy75i-FhSXQeEBGfzN-91": {
         "source": "dyWy75i-FhSXQeEBGfzN-88",
         "target": "dyWy75i-FhSXQeEBGfzN-90",
@@ -948,7 +943,7 @@
       "Z5SoOTblHbJHl6VuyPzG-60": {
         "source": "Z5SoOTblHbJHl6VuyPzG-27",
         "target": "Z5SoOTblHbJHl6VuyPzG-59",
-        "condtion": "NO"
+        "condtion": "No"
       },
       "Z5SoOTblHbJHl6VuyPzG-32": {
         "source": "Z5SoOTblHbJHl6VuyPzG-29",
