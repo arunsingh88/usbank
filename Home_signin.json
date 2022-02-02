@@ -33,6 +33,10 @@
       "U2pnFUaJx6OGbjqgS87--34": {
         "msg": "Hello, XXX, I\u2019m Joey, your dedicated resource to finding the right solution.",
         "type": "message"
+      },
+      "SUoHl_ZXl1NPQyMMKuZY-1": {
+        "msg": "Sorry for the misunderstanding, which industry do you work in?",
+        "type": "message"
       }
     },
     {
@@ -88,7 +92,7 @@
       },
       "U2pnFUaJx6OGbjqgS87--32": {
         "source": "U2pnFUaJx6OGbjqgS87--24",
-        "target": "U2pnFUaJx6OGbjqgS87--18",
+        "target": "SUoHl_ZXl1NPQyMMKuZY-1",
         "condtion": "No"
       },
       "U2pnFUaJx6OGbjqgS87--33": {
@@ -99,6 +103,11 @@
       "U2pnFUaJx6OGbjqgS87--36": {
         "source": "U2pnFUaJx6OGbjqgS87--34",
         "target": "U2pnFUaJx6OGbjqgS87--24",
+        "condtion": ""
+      },
+      "SUoHl_ZXl1NPQyMMKuZY-2": {
+        "source": "SUoHl_ZXl1NPQyMMKuZY-1",
+        "target": "U2pnFUaJx6OGbjqgS87--18",
         "condtion": ""
       }
     },
