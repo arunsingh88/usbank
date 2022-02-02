@@ -2,7 +2,7 @@
   "page1": [
     {
       "Vkk1kHjjtwqD61RsSIxe-4": {
-        "msg": "Hello, I\u2019m Joey, your dedicated resource to finding the right solution. To get started, please tell me, what industry are you in?",
+        "msg": "Thanks, please tell me, what industry are you in?",
         "type": "message"
       },
       "Vkk1kHjjtwqD61RsSIxe-6": { "msg": "Enter industry", "type": "input" },

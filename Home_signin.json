@@ -8,7 +8,7 @@
       },
       "U2pnFUaJx6OGbjqgS87--10": { "msg": "Enter revenue", "type": "input" },
       "U2pnFUaJx6OGbjqgS87--12": {
-        "msg": "Thanks! What product need can I help you with today (Transfer Money, Prevent Payment Fraud, Deposit Checks)?",
+        "msg": "Thanks! What product need can I help you with today?",
         "type": "message"
       },
       "U2pnFUaJx6OGbjqgS87--16": {
@@ -31,7 +31,7 @@
         "type": "check"
       },
       "U2pnFUaJx6OGbjqgS87--34": {
-        "msg": "Hello, XXX, I\u2019m Joey, your dedicated resource to finding the right solution.",
+        "msg": "Hello, XXX.",
         "type": "message"
       },
       "SUoHl_ZXl1NPQyMMKuZY-1": {

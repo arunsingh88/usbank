@@ -1,0 +1,426 @@
+{
+  "page1": [
+    {
+      "YWB0IX0qh_an2xbhE7LA-1": {
+        "msg": "You have selected Deposit Checks",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-6": {
+        "msg": "Great! I see that you typically deposit/receive qqq checks per month for a total of $www deposit per week. Is that accurate?\u00a0",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-12": {
+        "msg": "Based on what we know about you, here are the recommended products",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-14": {
+        "msg": "On-Site Electronic Deposit/Mobile Check Deposit/ Deposit Express",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-17": { "msg": "Digital_Payments", "type": "end" },
+      "YWB0IX0qh_an2xbhE7LA-23": {
+        "msg": "What is the maximum amount of checks you receive per day?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-24": {
+        "msg": "Do you require the ability to control individual access to make deposits?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-26": {
+        "msg": "Do you require the ability to control individual access to make deposits?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-30": {
+        "msg": "Because your business transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000, and requires control of individual access for deposits , I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-32": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-34": {
+        "msg": "Because your business transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000, and doesn\u2019t require control of individual access for deposits , I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-36": {
+        "msg": "Mobile check deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-38": {
+        "msg": "Because your business transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000, and doesn\u2019t require control of individual access for deposits , I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-40": {
+        "msg": "Because your business transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000, and requires control of individual access for deposits , I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-42": { "msg": "Deposit Express", "type": "end" },
+      "YWB0IX0qh_an2xbhE7LA-44": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-46": {
+        "msg": "Do you operate multiple business sites, more than a mile apart, that frequently receive a significant volume of checks?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-48": {
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, and operates in multiple business sites , I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-50": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-54": {
+        "msg": "Do you require the ability to control individual access to make deposits?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-56": {
+        "msg": "Do you have a need to frequently deposit non-monetary remittances remotely?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-62": {
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and doesn\u2019t have a need to frequently deposit non-monetary remittances, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-64": {
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and have a need to frequently deposit non-monetary remittances, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-66": { "msg": "Deposit Express", "type": "end" },
+      "YWB0IX0qh_an2xbhE7LA-68": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-70": {
+        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and require control of individual access for deposits, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-72": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-76": {
+        "msg": "Do you operate multiple business sites, more than a mile apart, that frequently receive a significant volume of checks?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-77": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, and operates in multiple business sites , I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-79": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-81": {
+        "msg": "Do you require the ability to control individual access to make deposits?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-85": {
+        "msg": "Do you have a need to frequently deposit non-monetary remittances remotely?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-88": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, needs to frequently deposit non-monetary remittances remotely, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-89": {
+        "msg": "Because your business transacts 50-300\u00a0checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and doesn\u2019t have a need to frequently deposit non-monetary remittances, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-90": { "msg": "Deposit Express", "type": "end" },
+      "YWB0IX0qh_an2xbhE7LA-92": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-94": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-96": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and requires control of individual access for deposits, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-99": {
+        "msg": "Do you require the ability to control individual access to make deposits?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-100": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and requires control of individual access for deposits, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-102": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-104": {
+        "msg": "Do you have a need to frequently deposit non-monetary remittances remotely?",
+        "type": "check"
+      },
+      "YWB0IX0qh_an2xbhE7LA-106": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and needs to frequently deposit non-monetary remittances remotely, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-108": {
+        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and doesn\u2019t need to frequently deposit non-monetary remittances remotely, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-110": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      },
+      "YWB0IX0qh_an2xbhE7LA-112": { "msg": "Deposit Express", "type": "end" },
+      "YWB0IX0qh_an2xbhE7LA-116": {
+        "msg": "Because your business transacts >300 checks monthly, I recommend:",
+        "type": "message"
+      },
+      "YWB0IX0qh_an2xbhE7LA-117": {
+        "msg": "On-Site Electronic Deposit",
+        "type": "end"
+      }
+    },
+    {
+      "YWB0IX0qh_an2xbhE7LA-7": {
+        "source": "YWB0IX0qh_an2xbhE7LA-1",
+        "target": "YWB0IX0qh_an2xbhE7LA-6",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-2": {
+        "source": "YWB0IX0qh_an2xbhE7LA-3",
+        "target": "YWB0IX0qh_an2xbhE7LA-1",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-16": {
+        "source": "YWB0IX0qh_an2xbhE7LA-6",
+        "target": "YWB0IX0qh_an2xbhE7LA-17",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-18": {
+        "source": "YWB0IX0qh_an2xbhE7LA-6",
+        "target": "YWB0IX0qh_an2xbhE7LA-23",
+        "condtion": "EEEE"
+      },
+      "YWB0IX0qh_an2xbhE7LA-47": {
+        "source": "YWB0IX0qh_an2xbhE7LA-6",
+        "target": "YWB0IX0qh_an2xbhE7LA-46",
+        "condtion": "FFFF"
+      },
+      "YWB0IX0qh_an2xbhE7LA-74": {
+        "source": "YWB0IX0qh_an2xbhE7LA-6",
+        "target": "YWB0IX0qh_an2xbhE7LA-76",
+        "condtion": "GGGG"
+      },
+      "YWB0IX0qh_an2xbhE7LA-97": {
+        "source": "YWB0IX0qh_an2xbhE7LA-6",
+        "target": "YWB0IX0qh_an2xbhE7LA-99",
+        "condtion": "HHHH"
+      },
+      "YWB0IX0qh_an2xbhE7LA-114": {
+        "source": "YWB0IX0qh_an2xbhE7LA-6",
+        "target": "YWB0IX0qh_an2xbhE7LA-116",
+        "condtion": "IIII"
+      },
+      "YWB0IX0qh_an2xbhE7LA-10": {
+        "source": "YWB0IX0qh_an2xbhE7LA-6",
+        "target": "YWB0IX0qh_an2xbhE7LA-12",
+        "condtion": "I know what product I want"
+      },
+      "YWB0IX0qh_an2xbhE7LA-13": {
+        "source": "YWB0IX0qh_an2xbhE7LA-12",
+        "target": "YWB0IX0qh_an2xbhE7LA-14",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-25": {
+        "source": "YWB0IX0qh_an2xbhE7LA-23",
+        "target": "YWB0IX0qh_an2xbhE7LA-24",
+        "condtion": "<5"
+      },
+      "YWB0IX0qh_an2xbhE7LA-27": {
+        "source": "YWB0IX0qh_an2xbhE7LA-23",
+        "target": "YWB0IX0qh_an2xbhE7LA-26",
+        "condtion": ">5"
+      },
+      "YWB0IX0qh_an2xbhE7LA-31": {
+        "source": "YWB0IX0qh_an2xbhE7LA-24",
+        "target": "YWB0IX0qh_an2xbhE7LA-30",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-35": {
+        "source": "YWB0IX0qh_an2xbhE7LA-24",
+        "target": "YWB0IX0qh_an2xbhE7LA-34",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-39": {
+        "source": "YWB0IX0qh_an2xbhE7LA-26",
+        "target": "YWB0IX0qh_an2xbhE7LA-38",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-41": {
+        "source": "YWB0IX0qh_an2xbhE7LA-26",
+        "target": "YWB0IX0qh_an2xbhE7LA-40",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-33": {
+        "source": "YWB0IX0qh_an2xbhE7LA-30",
+        "target": "YWB0IX0qh_an2xbhE7LA-32",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-37": {
+        "source": "YWB0IX0qh_an2xbhE7LA-34",
+        "target": "YWB0IX0qh_an2xbhE7LA-36",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-43": {
+        "source": "YWB0IX0qh_an2xbhE7LA-38",
+        "target": "YWB0IX0qh_an2xbhE7LA-42",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-45": {
+        "source": "YWB0IX0qh_an2xbhE7LA-40",
+        "target": "YWB0IX0qh_an2xbhE7LA-44",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-49": {
+        "source": "YWB0IX0qh_an2xbhE7LA-46",
+        "target": "YWB0IX0qh_an2xbhE7LA-48",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-55": {
+        "source": "YWB0IX0qh_an2xbhE7LA-46",
+        "target": "YWB0IX0qh_an2xbhE7LA-54",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-51": {
+        "source": "YWB0IX0qh_an2xbhE7LA-48",
+        "target": "YWB0IX0qh_an2xbhE7LA-50",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-57": {
+        "source": "YWB0IX0qh_an2xbhE7LA-54",
+        "target": "YWB0IX0qh_an2xbhE7LA-56",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-71": {
+        "source": "YWB0IX0qh_an2xbhE7LA-54",
+        "target": "YWB0IX0qh_an2xbhE7LA-70",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-63": {
+        "source": "YWB0IX0qh_an2xbhE7LA-56",
+        "target": "YWB0IX0qh_an2xbhE7LA-62",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-65": {
+        "source": "YWB0IX0qh_an2xbhE7LA-56",
+        "target": "YWB0IX0qh_an2xbhE7LA-64",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-67": {
+        "source": "YWB0IX0qh_an2xbhE7LA-62",
+        "target": "YWB0IX0qh_an2xbhE7LA-66",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-69": {
+        "source": "YWB0IX0qh_an2xbhE7LA-64",
+        "target": "YWB0IX0qh_an2xbhE7LA-68",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-73": {
+        "source": "YWB0IX0qh_an2xbhE7LA-70",
+        "target": "YWB0IX0qh_an2xbhE7LA-72",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-78": {
+        "source": "YWB0IX0qh_an2xbhE7LA-76",
+        "target": "YWB0IX0qh_an2xbhE7LA-77",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-80": {
+        "source": "YWB0IX0qh_an2xbhE7LA-77",
+        "target": "YWB0IX0qh_an2xbhE7LA-79",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-82": {
+        "source": "YWB0IX0qh_an2xbhE7LA-76",
+        "target": "YWB0IX0qh_an2xbhE7LA-81",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-83": {
+        "source": "YWB0IX0qh_an2xbhE7LA-81",
+        "target": "YWB0IX0qh_an2xbhE7LA-96",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-84": {
+        "source": "YWB0IX0qh_an2xbhE7LA-81",
+        "target": "YWB0IX0qh_an2xbhE7LA-85",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-86": {
+        "source": "YWB0IX0qh_an2xbhE7LA-85",
+        "target": "YWB0IX0qh_an2xbhE7LA-89",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-87": {
+        "source": "YWB0IX0qh_an2xbhE7LA-85",
+        "target": "YWB0IX0qh_an2xbhE7LA-88",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-91": {
+        "source": "YWB0IX0qh_an2xbhE7LA-89",
+        "target": "YWB0IX0qh_an2xbhE7LA-90",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-93": {
+        "source": "YWB0IX0qh_an2xbhE7LA-88",
+        "target": "YWB0IX0qh_an2xbhE7LA-92",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-95": {
+        "source": "YWB0IX0qh_an2xbhE7LA-96",
+        "target": "YWB0IX0qh_an2xbhE7LA-94",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-101": {
+        "source": "YWB0IX0qh_an2xbhE7LA-99",
+        "target": "YWB0IX0qh_an2xbhE7LA-100",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-105": {
+        "source": "YWB0IX0qh_an2xbhE7LA-99",
+        "target": "YWB0IX0qh_an2xbhE7LA-104",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-103": {
+        "source": "YWB0IX0qh_an2xbhE7LA-100",
+        "target": "YWB0IX0qh_an2xbhE7LA-102",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-107": {
+        "source": "YWB0IX0qh_an2xbhE7LA-104",
+        "target": "YWB0IX0qh_an2xbhE7LA-106",
+        "condtion": "Yes"
+      },
+      "YWB0IX0qh_an2xbhE7LA-109": {
+        "source": "YWB0IX0qh_an2xbhE7LA-104",
+        "target": "YWB0IX0qh_an2xbhE7LA-108",
+        "condtion": "No"
+      },
+      "YWB0IX0qh_an2xbhE7LA-111": {
+        "source": "YWB0IX0qh_an2xbhE7LA-106",
+        "target": "YWB0IX0qh_an2xbhE7LA-110",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-113": {
+        "source": "YWB0IX0qh_an2xbhE7LA-108",
+        "target": "YWB0IX0qh_an2xbhE7LA-112",
+        "condtion": ""
+      },
+      "YWB0IX0qh_an2xbhE7LA-118": {
+        "source": "YWB0IX0qh_an2xbhE7LA-116",
+        "target": "YWB0IX0qh_an2xbhE7LA-117",
+        "condtion": ""
+      }
+    },
+    "YWB0IX0qh_an2xbhE7LA-7"
+  ]
+}
