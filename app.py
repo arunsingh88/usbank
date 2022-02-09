@@ -229,6 +229,9 @@ def chatbot():
             response["payload"] = {}
     if "targetid" in response:
         response.pop("targetid")
+    if data['login'] == 'false':
+        if response["message"] == "Thanks! What product need can I help you with today?":
+            response["payload"] = {}
 
     return jsonify({"response": response})
 
