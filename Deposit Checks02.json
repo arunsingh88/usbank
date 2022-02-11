@@ -31,7 +31,7 @@
         "type": "check"
       },
       "YWB0IX0qh_an2xbhE7LA-30": {
-        "msg": "Because your business transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000, and requires control of individual access for deposits , I recommend:",
+        "msg": "Because your business :<br>•  Transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000<br>• Requires control of individual access for deposits <br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-32": {
@@ -39,7 +39,7 @@
         "type": "end"
       },
       "YWB0IX0qh_an2xbhE7LA-34": {
-        "msg": "Because your business transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000, and doesn\u2019t require control of individual access for deposits , I recommend:",
+        "msg": "Because your business :<br>•  Transacts <50 checks monthly and maximum <5 checks daily with weekly amount of <$30,000<br>• Doesn\u2019t require control of individual access for deposits <br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-36": {
@@ -47,11 +47,11 @@
         "type": "end"
       },
       "YWB0IX0qh_an2xbhE7LA-38": {
-        "msg": "Because your business transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000, and doesn\u2019t require control of individual access for deposits , I recommend:",
+        "msg": "Because your business :<br>•  Transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000<br>• Doesn\u2019t require control of individual access for deposits <br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-40": {
-        "msg": "Because your business transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000, and requires control of individual access for deposits , I recommend:",
+        "msg": "Because your business :<br>•  Transacts <50 checks monthly and maximum >5 checks daily with weekly amount of <$30,000<br>• Requires control of individual access for deposits <br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-42": { "msg": "Deposit Express", "type": "end" },
@@ -64,7 +64,7 @@
         "type": "check"
       },
       "YWB0IX0qh_an2xbhE7LA-48": {
-        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, and operates in multiple business sites , I recommend:",
+        "msg": "Because your business :<br>•  Transacts <50 checks monthly with weekly amount of >$30,000<br>• Operates in multiple business sites <br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-50": {
@@ -80,11 +80,11 @@
         "type": "check"
       },
       "YWB0IX0qh_an2xbhE7LA-62": {
-        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and doesn\u2019t have a need to frequently deposit non-monetary remittances, I recommend:",
+        "msg": "Because your business :<br>•  Transacts <50 checks monthly with weekly amount of >$30,000<br>• Doesn\u2019t operate in multiple business sites<br>• Doesn\u2019t have a need to frequently deposit non-monetary remittances<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-64": {
-        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and have a need to frequently deposit non-monetary remittances, I recommend:",
+        "msg": "Because your business :<br>•  Transacts <50 checks monthly with weekly amount of >$30,000<br>• Doesn\u2019t operate in multiple business sites<br>•  Have a need to frequently deposit non-monetary remittances<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-66": { "msg": "Deposit Express", "type": "end" },
@@ -93,7 +93,7 @@
         "type": "end"
       },
       "YWB0IX0qh_an2xbhE7LA-70": {
-        "msg": "Because your business transacts <50 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and require control of individual access for deposits, I recommend:",
+        "msg": "Because your business :<br>• Transacts <50 checks monthly with weekly amount of >$30,000<br>• Doesn\u2019t operate in multiple business sites, and require control of individual access for deposits<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-72": {
@@ -105,7 +105,7 @@
         "type": "check"
       },
       "YWB0IX0qh_an2xbhE7LA-77": {
-        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, and operates in multiple business sites , I recommend:",
+        "msg": "Because your business :<br>• Transacts 50-300 checks monthly with weekly amount of >$30,000<br>• Operates in multiple business sites <br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-79": {
@@ -121,11 +121,11 @@
         "type": "check"
       },
       "YWB0IX0qh_an2xbhE7LA-88": {
-        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, needs to frequently deposit non-monetary remittances remotely, I recommend:",
+        "msg": "Because your business :<br>• Transacts 50-300 checks monthly with weekly amount of >$30,000<br>• Doesn\u2019t operate in multiple business sites<br>•Needs to frequently deposit non-monetary remittances remotely<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-89": {
-        "msg": "Because your business transacts 50-300\u00a0checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and doesn\u2019t have a need to frequently deposit non-monetary remittances, I recommend:",
+        "msg": "Because your business :<br>• Transacts 50-300\u00a0checks monthly with weekly amount of >$30,000<br>• Doesn\u2019t operate in multiple business sites<br>• Doesn\u2019t have a need to frequently deposit non-monetary remittances<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-90": { "msg": "Deposit Express", "type": "end" },
@@ -138,7 +138,7 @@
         "type": "end"
       },
       "YWB0IX0qh_an2xbhE7LA-96": {
-        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of >$30,000, doesn\u2019t operate in multiple business sites, and requires control of individual access for deposits, I recommend:",
+        "msg": "Because your business :<br>• Transacts 50-300 checks monthly with weekly amount of >$30,000<br>• Doesn\u2019t operate in multiple business sites<br>• Requires control of individual access for deposits<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-99": {
@@ -146,7 +146,7 @@
         "type": "check"
       },
       "YWB0IX0qh_an2xbhE7LA-100": {
-        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and requires control of individual access for deposits, I recommend:",
+        "msg": "Because your business :<br>• Transacts 50-300 checks monthly with weekly amount of <$30,000<br>• Requires control of individual access for deposits<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-102": {
@@ -158,11 +158,11 @@
         "type": "check"
       },
       "YWB0IX0qh_an2xbhE7LA-106": {
-        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and needs to frequently deposit non-monetary remittances remotely, I recommend:",
+        "msg": "Because your business :<br>•  Transacts 50-300 checks monthly with weekly amount of <$30,000<br>• Needs to frequently deposit non-monetary remittances remotely<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-108": {
-        "msg": "Because your business transacts 50-300 checks monthly with weekly amount of <$30,000, and doesn\u2019t need to frequently deposit non-monetary remittances remotely, I recommend:",
+        "msg": "Because your business :<br>•  Transacts 50-300 checks monthly with weekly amount of <$30,000<br>• Doesn\u2019t need to frequently deposit non-monetary remittances remotely<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-110": {
@@ -171,7 +171,7 @@
       },
       "YWB0IX0qh_an2xbhE7LA-112": { "msg": "Deposit Express", "type": "end" },
       "YWB0IX0qh_an2xbhE7LA-116": {
-        "msg": "Because your business transacts >300 checks monthly, I recommend:",
+        "msg": "Because your business :<br>•  Transacts >300 checks monthly<br>I recommend:",
         "type": "message"
       },
       "YWB0IX0qh_an2xbhE7LA-117": {
