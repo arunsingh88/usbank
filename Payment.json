@@ -18,19 +18,19 @@
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-3": {
-        "msg": "Because you allow companies to debit accounts electronically and your business also disburse checks, I recommend:",
+        "msg": "Because your company :<br>• Allows to debit accounts electronically <br>•  Disburse checks<br> I recommend:",
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-4": {
-        "msg": "Because you allow companies to debit accounts electronically and your business doesn't disburse checks, I recommend:",
+        "msg": "Because your company:<br>• Allows to debit accounts electronically <br>•  Doesn't disburse checks<br> I recommend:",
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-5": {
-        "msg": "Because you don't allow companies to debit accounts electronically and your business\u00a0 disburse checks, I recommend:",
+        "msg": "Because your company :<br>•  Doesn't allow to debit accounts electronically <br>•  Disburse checks<br> I recommend:",
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-6": {
-        "msg": "Because you don't allow companies to debit accounts electronically and your business doesn't\u00a0 disburse checks, I recommend:",
+        "msg": "Because your company :<br>• Allows to debit accounts electronically <br>• Doesn't disburse checks<br> I recommend:",
         "type": "message"
       },
       "bWfzHslepsMsLRYXzKlo-7": {

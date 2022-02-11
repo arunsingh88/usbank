@@ -34,11 +34,11 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-20": {
-        "msg": "Because your business typically makes <2 transfers daily with 100% predictable payments to be scheduled in advance, and requires to make international payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily <br>•  Has 100% predictable payments to be scheduled in advance<br>• Makes international payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-22": {
-        "msg": "Because your business typically makes <2 transfers daily with 100% predictable payments to be scheduled in advance, and requires to make international payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily <br>•  Has 100% predictable payments to be scheduled in advance<br>• Makes international payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-24": { "msg": "ACH", "type": "end" },
@@ -56,7 +56,7 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-34": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments on off-banking hours, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Makes international payments and needs to make same-day payments on off-banking hours<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-36": {
@@ -68,7 +68,7 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-40": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments on off-banking hours with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Makes international payments and needs to make same-day payments on off-banking hours with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-42": {
@@ -76,7 +76,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-44": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments on off-banking hours with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Makes international payments and needs to make same-day payments on off-banking hours with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-46": {
@@ -84,7 +84,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-48": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, require international payments, and doesn\u2019t need to make same-day payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Makes international payments<br>• Doesn\u2019t need to make same-day payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-50": {
@@ -104,7 +104,7 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-58": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments on off-banking hours with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments on off-banking hours with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-60": {
@@ -112,7 +112,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-62": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments on off-banking hours with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments on off-banking hours with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-64": {
@@ -124,7 +124,7 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-69": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-71": {
@@ -132,7 +132,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-74": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-76": {
@@ -140,7 +140,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-78": {
-        "msg": "Because your business typically makes <2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international and same-day payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international and same-day payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-80": {
@@ -156,7 +156,7 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-88": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments on off-banking hours, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments and needs to make same-day payments on off-banking hours<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-90": {
@@ -164,12 +164,12 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-99": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international and, doesn\u2019t make same-day payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Doesn’t make international payments <br>• Doesn’t need to make same-day payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-101": { "msg": "Wire", "type": "end" },
       "dyWy75i-FhSXQeEBGfzN-103": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issue payments to consumers or micro-businesses, doesn\u2019t require international and same-day payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Doesn’t make international payments <br>• Doesn’t need to make same-day payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-105": { "msg": "ACH", "type": "end" },
@@ -182,11 +182,11 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-113": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments and needs to make same-day payments with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-115": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments and needs to make same-day payments with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-117": { "msg": "Wire", "type": "end" },
@@ -207,11 +207,11 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-128": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments on off-banking hours with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Doesn\u2019t make international payments<br>• Needs to make same-day payments on off-banking hours with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-130": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments on off-banking hours with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Doesn\u2019t make international payments<br>• Needs to make same-day payments on off-banking hours with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-132": {
@@ -227,11 +227,11 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-140": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-142": {
-        "msg": "Because your business typically makes <2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes <2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-144": { "msg": "Wire", "type": "end" },
@@ -248,11 +248,11 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-152": {
-        "msg": "Because your business typically makes >2 transfers daily with 100% predictable payments to be scheduled in advance, and requires to make international payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily <br>•  Has 100% predictable payments to be scheduled in advance<br>• Makes international  payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-154": {
-        "msg": "Because your business typically makes >2 transfers daily with 100% predictable payments to be scheduled in advance, and doesn\u2019t require to make international payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily <br>•  Has 100% predictable payments to be scheduled in advance<br>•  Doesn\u2019t require to make international payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-156": { "msg": "ACH/Wire", "type": "end" },
@@ -270,7 +270,7 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-166": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, requires to make international payments, and needs to make same-day payments on off banking hours/holidays, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>•  Make international payments<br>• Needs to make same-day payments on off banking hours/holidays<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-168": {
@@ -282,7 +282,7 @@
         "type": "check"
       },
       "dyWy75i-FhSXQeEBGfzN-172": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, requires to make international payments, and needs to make same-day payments with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>•  Make international payments<br>• Needs to make same-day payments with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-174": {
@@ -290,7 +290,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-176": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, requires to make international payments, and needs to make same-day payments with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>•  Make international payments<br>• Needs to make same-day payments with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-178": {
@@ -298,7 +298,7 @@
         "type": "end"
       },
       "dyWy75i-FhSXQeEBGfzN-180": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, requires to make international payments, and doesn\u2019t need to make same-day payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>•  Make international payments<br>•  Doesn\u2019t need to make same-day payments<br>I recommend:",
         "type": "message"
       },
       "dyWy75i-FhSXQeEBGfzN-182": {
@@ -318,7 +318,7 @@
         "type": "check"
       },
       "Z5SoOTblHbJHl6VuyPzG-5": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments on off-banking hours with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments on off-banking hours with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-7": {
@@ -326,7 +326,7 @@
         "type": "end"
       },
       "Z5SoOTblHbJHl6VuyPzG-9": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments on off-banking hours with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments on off-banking hours with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-11": {
@@ -338,7 +338,7 @@
         "type": "check"
       },
       "Z5SoOTblHbJHl6VuyPzG-15": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments of value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments of value >$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-17": {
@@ -346,7 +346,7 @@
         "type": "end"
       },
       "Z5SoOTblHbJHl6VuyPzG-19": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make international payments, and needs to make same-day payments of value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>• Doesn’t make international payments<br>• Needs to make same-day payments of value <$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-21": {
@@ -354,7 +354,7 @@
         "type": "end"
       },
       "Z5SoOTblHbJHl6VuyPzG-23": {
-        "msg": "Because your business typically makes >2 transfers daily, issues payments to consumers or micro-businesses, doesn\u2019t make to make international and same-day payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Issues payments to to consumers or micro-businesses<br>•  Doesn\u2019t make international payments <br>• Doesn’t need to make same-day payments<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-25": {
@@ -374,7 +374,7 @@
         "type": "check"
       },
       "Z5SoOTblHbJHl6VuyPzG-35": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments on off-banking/holiday hours, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Needs to make same-day payments on off-banking/holiday hours<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-37": {
@@ -386,12 +386,12 @@
         "type": "check"
       },
       "Z5SoOTblHbJHl6VuyPzG-44": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Needs to make same-day payments with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-46": { "msg": "Wire/ACH", "type": "end" },
       "Z5SoOTblHbJHl6VuyPzG-48": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Needs to make same-day payments with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-50": {
@@ -399,7 +399,7 @@
         "type": "end"
       },
       "Z5SoOTblHbJHl6VuyPzG-55": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and doesn\u2019t need to make same-day payments, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Doesn\u2019t need to make same-day payments<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-57": { "msg": "Wire/ACH", "type": "end" },
@@ -416,7 +416,7 @@
         "type": "check"
       },
       "Z5SoOTblHbJHl6VuyPzG-65": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments on off-banking/holiday hours with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Needs to make same-day payments on off-banking/holiday hours with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-67": {
@@ -424,7 +424,7 @@
         "type": "end"
       },
       "Z5SoOTblHbJHl6VuyPzG-69": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments on off-banking/holiday hours with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Needs to make same-day payments on off-banking/holiday hours with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-71": {
@@ -436,11 +436,11 @@
         "type": "check"
       },
       "Z5SoOTblHbJHl6VuyPzG-75": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments with value >$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Needs to make same-day payments with value >$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-77": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, makes international payments, and needs to make same-day payments with value <$100,000, I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Makes international payments <br>• Needs to make same-day payments with value <$100,000<br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-79": { "msg": "ACH/Wire", "type": "end" },
@@ -449,7 +449,7 @@
         "type": "end"
       },
       "Z5SoOTblHbJHl6VuyPzG-83": {
-        "msg": "Because your business typically makes >2 transfers daily, doesn\u2019t issues payments to consumers or micro-businesses, and doesn\u2019t require international and same-day payments , I recommend:",
+        "msg": "Because your business :<br>•  Makes >2 transfers daily<br>• Doesn’t issue payments to consumers or micro-businesses<br>• Doesn\u2019t require international and same-day payments <br>I recommend:",
         "type": "message"
       },
       "Z5SoOTblHbJHl6VuyPzG-87": { "msg": "ACH", "type": "end" }
